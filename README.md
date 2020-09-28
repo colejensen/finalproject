@@ -26,8 +26,8 @@ OK, here we go.
 
 During the early wave of the SARSCoV-2 pandemic, thousands of peopel left NYC. The NY Times did a study to estimate where many of the city's residents went uisng mail forwarding requests. The results can be shown here:
 <p align="center">
- ![Map of Where NYC Residents Moved](https://github.com/colejensen/finalproject/blob/master/images/Capture.PNG)
- </p?
+ <img src="https://github.com/colejensen/finalproject/blob/master/images/Capture.PNG">
+ </p>
 
 It can be seen that genomes associated with the NYC outbreak have [influenced transmission of SARCoV-2 throughout the US](https://www.medrxiv.org/content/10.1101/2020.04.08.20056929v2). 
 The goal of my project is to see if transmission of SARSCoV-2 that is tied to this exodus of NYC  during the early wave of the pandemic in NYC led to introdctions of SARSCoV2 outside of the USA and if it did, did it result in last transmission chains?
