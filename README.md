@@ -24,7 +24,10 @@ OK, here we go.
 
 ## Introduction and Goals
 
-The goal of my project is to see if transmission of SARSCoV2 during the early wave of the pandemic in NYC led to introdctions of SARSCoV2 outside of the USA and if it did, did it result in last transmission chains?
+During the early wave of the SARSCoV-2 pandemic, thousands of peopel left NYC. The NY Times did a study to estimate where many of the city's residents went uisng mail forwarding requests. The results can be shown here:
+![Map of Where NYC Residents Moved](https://github.com/colejensen/finalproject/blob/master/images/Capture.PNG)
+It can be seen that genomes associated with the NYC outbreak have [influenced transmission of SARCoV-2 throughout the US](https://www.medrxiv.org/content/10.1101/2020.04.08.20056929v2). 
+The goal of my project is to see if transmission of SARSCoV-2 that is tied to this exodus of NYC  during the early wave of the pandemic in NYC led to introdctions of SARSCoV2 outside of the USA and if it did, did it result in last transmission chains?
 
 The methods I will use to do this are Nextstrain, Beast, IQTree, and the Baltic python package. I need to see how likely the different trees are to happen. To do this I plan on making Nextstrain trees using a [pipeline](https://github.com/colejensen/sarscov2) that I am familiar with. This will result in three different `<json>` files<sub>[1](https://github.com/colejensen/sarscov2/blob/master/auspice/sarscov2_inc1.json),[2](https://github.com/colejensen/sarscov2/blob/master/auspice/sarscov2_inc2.json),[3](https://github.com/colejensen/sarscov2/blob/master/auspice/sarscov2_inc3.json)</sub>. 
  
