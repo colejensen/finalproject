@@ -20,15 +20,22 @@ Some guidelines and tips:
 
 OK, here we go.
 
-# Title of my project
+# Have Transmission Chains of SARSCoV2 associated with NYC Influenced Transmission Chains Outside of the US? 
 
 ## Introduction and Goals
 
-The goal of my project is to answer the question, What is...?
+The goal of my project is to see if transmission of SARSCoV2 during the early wave of the pandemic in NYC led to introdctions of SARSCoV2 outside of the USA and if it did, did it result in last transmission chains?answer the question, What is...?
 
-The methods I will use to do this are...
+The methods I will use to do this are Nextstrain, Beast, IQTree, and the Baltic python package. I need to see how likely the different trees are to happen. To do this I plan on making Nextstrain trees using a [pipeline](https://github.com/colejensen/sarscov2) that I am familiar with. This will result in three different '<json>' files<sub>[1](https://github.com/colejensen/sarscov2/blob/master/auspice/sarscov2_inc1.json),[2](https://github.com/colejensen/sarscov2/blob/master/auspice/sarscov2_inc2.json),[3](https://github.com/colejensen/sarscov2/blob/master/auspice/sarscov2_inc3.json)</sub>. 
+ 
+ I plan on then bootstrapping this tree. This is where Beast and IQTree come in. Nextstrain gives me a Maximum Likelihood tree that does 2 iteratations to find the topolgy with the most likely events. I need to figure out if that is: 
+ 1. **Truely the most likely topology**
+ 2. **The cluster proportion of the branches being in that/a posistion** 
+There are two ways I can do this and I intend to figure out if one is better than the other. I can input my '<json>' files to Beast and use that input as a [fixed emprircal tree](https://www.biorxiv.org/content/10.1101/2020.05.05.078758v2.full) to infer the ancestral locations with spatially-explict models. The other option is to use [IQTree](http://www.iqtree.org/doc/Tutorial) and have it preform 1000+ bootstraps to get similiar (hopefully nearly identical) results. 
+  
+I will then need to make tree visualizations. This is where baltic comes in. I will use the baltic package (this is still up in the air, but I am leaning towards using baltic) to take the outputs of Beast and IQTree and create visualiztion of the trees. These figures will be similiar to [figure 1 and figure 2](https://www.nature.com/articles/nature22040).
 
-The data I will use are (my own data/ data publicly available at YYY/ simulations)
+I will use data generated from the [Grubaugh Lab](http://grubaughlab.com/) and data available at [GISAID.org](https://www.gisaid.org/) and in the [NCBI database](https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/virus?SeqType_s=Nucleotide&VirusLineage_ss=Wuhan%20seafood%20market%20pneumonia%20virus,%20taxid:2697049). 
 
 ## Methods
 
