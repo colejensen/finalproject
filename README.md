@@ -24,9 +24,9 @@ OK, here we go.
 
 ## Introduction and Goals
 
-The goal of my project is to see if transmission of SARSCoV2 during the early wave of the pandemic in NYC led to introdctions of SARSCoV2 outside of the USA and if it did, did it result in last transmission chains?answer the question, What is...?
+The goal of my project is to see if transmission of SARSCoV2 during the early wave of the pandemic in NYC led to introdctions of SARSCoV2 outside of the USA and if it did, did it result in last transmission chains?
 
-The methods I will use to do this are Nextstrain, Beast, IQTree, and the Baltic python package. I need to see how likely the different trees are to happen. To do this I plan on making Nextstrain trees using a [pipeline](https://github.com/colejensen/sarscov2) that I am familiar with. This will result in three different '<json>' files<sub>[1](https://github.com/colejensen/sarscov2/blob/master/auspice/sarscov2_inc1.json),[2](https://github.com/colejensen/sarscov2/blob/master/auspice/sarscov2_inc2.json),[3](https://github.com/colejensen/sarscov2/blob/master/auspice/sarscov2_inc3.json)</sub>. 
+The methods I will use to do this are Nextstrain, Beast, IQTree, and the Baltic python package. I need to see how likely the different trees are to happen. To do this I plan on making Nextstrain trees using a [pipeline](https://github.com/colejensen/sarscov2) that I am familiar with. This will result in three different `<json>` files<sub>[1](https://github.com/colejensen/sarscov2/blob/master/auspice/sarscov2_inc1.json),[2](https://github.com/colejensen/sarscov2/blob/master/auspice/sarscov2_inc2.json),[3](https://github.com/colejensen/sarscov2/blob/master/auspice/sarscov2_inc3.json)</sub>. 
  
  I plan on then bootstrapping this tree. This is where Beast and IQTree come in. Nextstrain gives me a Maximum Likelihood tree that does 2 iteratations to find the topolgy with the most likely events. I need to figure out if that is: 
  1. **Truely the most likely topology**
@@ -35,7 +35,7 @@ There are two ways I can do this and I intend to figure out if one is better tha
   
 I will then need to make tree visualizations. This is where baltic comes in. I will use the baltic package (this is still up in the air, but I am leaning towards using baltic) to take the outputs of Beast and IQTree and create visualiztion of the trees. These figures will be similiar to [figure 1 and figure 2](https://www.nature.com/articles/nature22040).
 
-I will use data generated from the [Grubaugh Lab](http://grubaughlab.com/) and data available at [GISAID.org](https://www.gisaid.org/) and in the [NCBI database](https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/virus?SeqType_s=Nucleotide&VirusLineage_ss=Wuhan%20seafood%20market%20pneumonia%20virus,%20taxid:2697049). 
+I will use data generated from the [Grubaugh Lab](http://grubaughlab.com/) and data available at [GISAID.org](https://www.gisaid.org/) and in the [NCBI database](https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/virus?SeqType_s=Nucleotide&VirusLineage_ss=Wuhan%20seafood%20market%20pneumonia%20virus,%20taxid:2697049). I can also create loop in the baltic code that will create a count to see how many genomes from NYC cluster with genomes from other countires and how many genomes are part of those chains after the NYC genome(s). 
 
 ## Methods
 
