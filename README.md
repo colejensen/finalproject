@@ -17,7 +17,7 @@ I will use data generated from the [Grubaugh Lab](http://grubaughlab.com/) and d
 
 ## Methods
 
-I will use Nextstrain, Beast, IQTree, and the Baltic python package to look into this. I need to see how likely the different trees are to happen. To do this I plan on making Nextstrain trees using a [pipeline]<sub>(https://github.com/colejensen/sarscov2)</sub> that I am familiar with. This will result in three different `<json>` files<sub>[try1](https://github.com/colejensen/sarscov2/blob/master/auspice/sarscov2_inc1.json),[try2](https://github.com/colejensen/sarscov2/blob/master/auspice/sarscov2_inc2.json),[try3](https://github.com/colejensen/sarscov2/blob/master/auspice/sarscov2_inc3.json)</sub>. I will then bootstrap these three trees to find out:
+I will use Nextstrain, Beast, IQTree, and the Baltic python package to look into this. I need to see how likely the different trees are to happen. To do this I plan on making Nextstrain trees using a [pipeline](https://github.com/colejensen/sarscov2) that I am familiar with. This will result in three different `<json>` files<sub>[try1](https://github.com/colejensen/sarscov2/blob/master/auspice/sarscov2_inc1.json),[try2](https://github.com/colejensen/sarscov2/blob/master/auspice/sarscov2_inc2.json),[try3](https://github.com/colejensen/sarscov2/blob/master/auspice/sarscov2_inc3.json)</sub>. I will then bootstrap these three trees to find out:
  1. **If the `<json>` files truely produced the most likely topology**
  2. **The cluster proportion of the branches being in that/a posistion** 
  
