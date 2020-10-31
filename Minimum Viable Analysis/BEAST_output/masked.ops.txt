@@ -1,0 +1,20 @@
+
+Operator analysis
+Operator                                          Tuning   Count      Time     Time/Op  Pr(accept) 
+scale(kappa)                                      0.742   7292       4699297  644.45   0.2342      
+frequencies                                       0.012   7362       4751996  645.48   0.2387      
+scale(alpha)                                      0.156   7328       4681858  638.9    0.2342      
+scale(ucld.mean)                                  0.909   22026      14177480 643.67   0.2325      
+scale(ucld.stdev)                                 0.826   21822      14076690 645.07   0.235       
+up:nodeHeights(treeModel) down:ucld.mean          1.0     21776      9270170  425.71   0.2304      
+swapOperator(branchRates.categories)                      73204      2851756  38.96    0.4326      
+uniformInteger(branchRates.categories)                    72886      2256521  30.96    0.558       
+subtreeSlide(treeModel)                           0.01    218658     4686212  21.43    0.232       
+Narrow Exchange(treeModel)                                218680     4875804  22.3     0.4066      
+Wide Exchange(treeModel)                                  21740      409110   18.82    0.0416      
+wilsonBalding(treeModel)                                  21915      805190   36.74    0.0704      
+scale(treeModel.rootHeight)                       0.126   22065      441845   20.02    0.2422      
+uniform(nodeHeights(treeModel))                           219473     7021925  31.99    0.627       
+scale(exponential.popSize)                        0.856   21882      16077    0.73     0.2339      
+exponential.growthRate                            2.087   21891      16048    0.73     0.2364      
+
