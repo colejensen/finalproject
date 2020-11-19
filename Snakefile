@@ -10,6 +10,11 @@ rule preanalyses:
 		"config/latlongs.tsv",
 		"config/colors.tsv"
 
+rule options:
+	params:
+		threads = 4
+options = rules.options.params
+
 
 # Define file names
 rule files:
@@ -30,9 +35,7 @@ rule files:
 		aligned = "config/aligned.fasta"
 
 
-
 files = rules.files.params
-
 
 rule add_sequences:
 	message:
@@ -72,7 +75,6 @@ rule filter_metadata:
 		metadata2 = files.metadata_lab
 	output:
 		filtered_metadata = "pre-analyses/metadata_filtered.tsv",
-		renaming = "pre-analyses/rename.tsv",
 		sequences = "data/sequences.fasta"
 	shell:
 		"""
@@ -81,8 +83,7 @@ rule filter_metadata:
 			--metadata1 {input.metadata1} \
 			--metadata2 {input.metadata2} \
 			--output1 {output.filtered_metadata} \
-			--output2 {output.renaming} \
-			--output3 {output.sequences}
+			--output2 {output.sequences}
 		"""
 
 
@@ -116,7 +117,7 @@ rule coordinates:
 		geoscheme = files.geoscheme,
 		cache = files.cache
 	params:
-		columns = "region country division location"
+		columns = "region_exposure country_exposure division_exposure location"
 	output:
 		latlongs = "config/latlongs.tsv"
 	shell:
@@ -142,7 +143,7 @@ rule colours:
 		geoscheme = files.geoscheme,
 		colour_grid = files.colour_grid
 	params:
-		columns = "region country division location"
+		columns = "region_exposure country_exposure division_exposure location"
 	output:
 		colours = "config/colors.tsv"
 	shell:
@@ -158,71 +159,69 @@ rule colours:
 
 
 
-
-
-
 ### STARTING NEXTSTRAIN PIPELINE
 
 
-input_fasta = rules.filter_metadata.output.sequences,
-input_metadata = rules.geoscheme.output.final_metadata,
+input_fasta = "data/sequences.fasta",
+input_metadata = "data/metadata.tsv",
 reference = files.reference,
 clades = files.clades,
-lat_longs = rules.coordinates.output.latlongs,
-colors = rules.colours.output.colours,
+lat_longs = "config/latlongs.tsv",
+colors = "config/colors.tsv",
 dropped_strains = files.dropped_strains,
-auspice_config = "config/auspice_config.json"
+auspice_config = "config/auspice_config.json",
+weights = "config/weights.tsv"
+
 
 ### Excluding sequences included in dropped_strains
 rule filter:
-    message:
-        """
-        Filtering to
-          - excluding strains in {input.exclude}
-        """
-    input:
-        sequences = input_fasta,
-        metadata = input_metadata,
-        exclude = dropped_strains
-    output:
-        sequences = "results/filtered.fasta"
-    params:
-        group_by = "country year month",
-        sequences_per_group = 20,
-        min_date = 1900
-    shell:
-        """
-        augur filter \
-            --sequences {input.sequences} \
-            --metadata {input.metadata} \
-            --exclude {input.exclude} \
-            --output {output.sequences}
-        """
+	message:
+		"""
+		Filtering to
+		  - excluding strains in {input.exclude}
+		"""
+	input:
+		sequences = input_fasta,
+		metadata = input_metadata,
+		exclude = dropped_strains
+	output:
+		sequences = "results/filtered.fasta"
+	shell:
+		"""
+		augur filter \
+			--sequences {input.sequences} \
+			--metadata {input.metadata} \
+			--exclude {input.exclude} \
+			--output {output.sequences}
+		"""
 
 
 ### Aligning the sequences using MAFFT
 rule align:
-    message:
-        """
-        Aligning sequences to {input.reference}
-          - filling gaps with N
-        """
-    input:
-        sequences = rules.filter.output.sequences,
-        reference = reference,
-        aligned = files.aligned
-    output:
-        alignment = "results/aligned.fasta"
-    shell:
-        """
-        augur align \
-            --existing-alignment {files.aligned} \
-            --sequences {input.sequences} \
-            --reference-sequence {input.reference} \
-            --output {output.alignment} \
-            --remove-reference \
-            --fill-gaps \
-        """
+	message:
+		"""
+		Aligning sequences to {input.reference}
+		  - filling gaps with N
+		"""
+	input:
+		sequences = rules.filter.output.sequences,
+		aligned = files.aligned,
+		reference = reference
+	output:
+		alignment = "results/aligned.fasta"
+	params:
+		threads = options.threads
+	shell:
+		"""
+		augur align \
+			--sequences {input.sequences} \
+			--existing-alignment {files.aligned} \
+			--reference-sequence {input.reference} \
+			--nthreads {params.threads} \
+			--output {output.alignment} \
+			--remove-reference \
+			--fill-gaps
+		"""
 
 
 ### Masking alignment sites
@@ -239,9 +238,9 @@ rule mask:
     output:
         alignment = "results/masked.fasta"
     params:
-        mask_from_beginning = 130,
-        mask_from_end = 50,
-        mask_sites = "18529 29849 29851 29853"
+        mask_from_beginning = 55,
+        mask_from_end = 100,
+        mask_sites = "76 78 150 153 538 635 660 759 1001 1707 1814 1895 1947 2087 2091 2094 2198 2604 3145 3564 3639 3778 4050 4463 5011 5257 5393 5498 5657 5736 5743 5744 5765 5766 6167 6255 6309 6310 6312 6866 6869 6877 6971 6975 6977 7090 7305 7396 8022 8026 8790 8827 8828 9039 9471 10129 11074 11083 11535 12506 13402 13408 13476 13512 13513 13514 13571 13650 13686 13687 13693 14277 15435 15771 15922 16210 16290 16537 16887 18505 18506 18690 19298 19299 19338 19339 19344 19369 19406 19482 19484 19548 19732 20056 20123 20126 20465 21302 21304 21305 21376 21550 21551 21575 21609 21658 22329 22335 22389 22393 22416 22420 22488 22500 22515 22516 22521 22661 22802 23116 23144 24389 24390 24622 24673 24933 24942 25202 25381 25798 26549 26700 26709 27534 27720 27760 27761 27784 27792 28004 28005 28006 28008 28253 28517 28676 28780 28881 28882 28883 28985 29037 29039 29378 29425 29427 29428 29553 29737 29786 29827 29830"
     shell:
         """
         python3 scripts/mask-alignment.py \
@@ -256,59 +255,65 @@ rule mask:
 ### Inferring Maximum Likelihood tree using the default software (IQTree)
 
 rule tree:
-    message: "Building tree"
-    input:
-        alignment = rules.mask.output.alignment
-    output:
-        tree = "results/tree_raw.nwk"
-    shell:
-        """
-        augur tree \
-            --alignment {input.alignment} \
-            --output {output.tree}
-        """
+	message: "Building tree"
+	input:
+		alignment = rules.mask.output.alignment
+	output:
+		tree = "results/tree_raw.nwk"
+	params:
+		threads = options.threads
+	shell:
+		"""
+		augur tree \
+			--alignment {input.alignment} \
+			--nthreads {params.threads} \
+			--output {output.tree}
+		"""
 
 
 ### Running TreeTime to estimate time for ancestral genomes
 
 rule refine:
-    message:
-        """
-        Refining tree
-          - estimate timetree
-          - use {params.coalescent} coalescent timescale
-          - estimate {params.date_inference} node dates
-        """
-    input:
-        tree = rules.tree.output.tree,
-        alignment = rules.align.output,
-        metadata = input_metadata
-    output:
-        tree = "results/tree.nwk",
-        node_data = "results/branch_lengths.json"
-    params:
-        root = "Wuhan/WH01/2019",
-        coalescent = "skyline",
-        clock_rate = 0.0008,
-        clock_std_dev = 0.0004,
-        date_inference = "marginal",
-    shell:
-        """
-        augur refine \
-            --tree {input.tree} \
-            --alignment {input.alignment} \
-            --metadata {input.metadata} \
-            --output-tree {output.tree} \
-            --output-node-data {output.node_data} \
-            --root {params.root} \
-            --timetree \
-            --coalescent {params.coalescent} \
-            --date-confidence \
-            --clock-filter-iqd 3 \
-            --clock-rate {params.clock_rate} \
-            --clock-std-dev {params.clock_std_dev} \
-            --date-inference {params.date_inference}
-        """
+	message:
+		"""
+		Refining tree
+		  - estimate timetree
+		  - use {params.coalescent} coalescent timescale
+		  - estimate {params.date_inference} node dates
+		"""
+	input:
+		tree = rules.tree.output.tree,
+		alignment = rules.align.output,
+		metadata = input_metadata
+	output:
+		tree = "results/tree.nwk",
+		node_data = "results/branch_lengths.json"
+	params:
+		root = "Wuhan/WH01/2019",
+		coalescent = "const",
+		clock_rate = 0.0008,
+		clock_std_dev = 0.0004,
+		date_inference = "marginal",
+		unit = "mutations"
+	shell:
+		"""
+		augur refine \
+			--tree {input.tree} \
+			--alignment {input.alignment} \
+			--metadata {input.metadata} \
+			--output-tree {output.tree} \
+			--output-node-data {output.node_data} \
+			--root {params.root} \
+			--timetree \
+			--coalescent {params.coalescent} \
+			--date-confidence \
+            --clock-filter 3 \
+			--clock-rate {params.clock_rate} \
+			--clock-std-dev {params.clock_std_dev} \
+			--divergence-units {params.unit} \
+			--date-inference {params.date_inference}
+		"""
+
 
 
 ### Reconstructing ancestral sequences and mutations
@@ -361,7 +366,7 @@ rule traits:
     output:
         node_data = "results/traits.json",
     params:
-        columns = "region country division location"
+        columns = "region_exposure country_exposure division_exposure location pangolin_lineage"
     shell:
         """
         augur traits \
@@ -429,13 +434,24 @@ rule clean:
 	message: "Removing directories: {params}"
 	params:
 		"results ",
+		"auspice"
+
+	shell:
+		"""
+		rm -rfv {params}
+		"""
+
+
+rule reset:
+	message: "Removing directories: {params}"
+	params:
+		"results ",
 		"auspice",
 		"data",
 		"config/colors.tsv",
 		"config/latlongs.tsv",
 		"pre-analyses/metadata_filtered.tsv",
-		"pre-analyses/temp_sequences.fasta",
-		"pre-analyses/rename.tsv"
+		"pre-analyses/temp_sequences.fasta"
 
 	shell:
 		"""
@@ -449,3 +465,4 @@ rule delete:
 		"pre-analyses"
 	shell:
 		"rm -rfv {params}"
+
