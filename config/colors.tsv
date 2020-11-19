@@ -1,0 +1,278 @@
+region_exposure	Oceania	#E073BC
+region_exposure	Eastern Asia	#A3298F
+region_exposure	Southeastern Asia	#AD45AB
+region_exposure	Southern Asia	#B761C7
+region_exposure	Central Asia	#C17DE3
+region_exposure	Western Asia	#CC99FF
+region_exposure	Northern Europe	#3D29A3
+region_exposure	Western Europe	#5B6AC1
+region_exposure	Eastern Europe	#7AACE0
+region_exposure	Southern Europe	#99EEFF
+region_exposure	Northern Africa	#3DA329
+region_exposure	Western Africa	#8DD161
+region_exposure	Southern Africa	#DDFF99
+region_exposure	South America	#A37A29
+region_exposure	Central America	#A35129
+region_exposure	North America	#A32929
+
+country_exposure	Australia	#E073BC
+country_exposure	China	#A3298F
+country_exposure	Japan	#D161BE
+country_exposure	South Korea	#FF99EE
+country_exposure	Indonesia	#A329A3
+country_exposure	Philippines	#D161D1
+country_exposure	Thailand	#FF99FF
+country_exposure	India	#8F29A3
+country_exposure	Bangladesh	#AE4EC1
+country_exposure	Pakistan	#CE73E0
+country_exposure	Iran	#EE99FF
+country_exposure	Kazakhstan	#BC73E0
+country_exposure	Oman	#6629A3
+country_exposure	United Arab Emirates	#7135AD
+country_exposure	Qatar	#7C41B7
+country_exposure	Saudi Arabia	#884EC1
+country_exposure	Bahrain	#935ACB
+country_exposure	Kuwait	#9E67D6
+country_exposure	Israel	#AA73E0
+country_exposure	Lebanon	#B580EA
+country_exposure	Cyprus	#C08CF4
+country_exposure	Turkey	#CC99FF
+country_exposure	Ireland	#3D29A3
+country_exposure	United Kingdom	#4C39B0
+country_exposure	Denmark	#5C49BD
+country_exposure	Latvia	#6B59CA
+country_exposure	Sweden	#7B69D7
+country_exposure	Finland	#8A79E4
+country_exposure	Norway	#9A89F1
+country_exposure	Iceland	#AA99FF
+country_exposure	France	#293DA3
+country_exposure	Switzerland	#3B4FB2
+country_exposure	Austria	#4E61C1
+country_exposure	Luxembourg	#6173D1
+country_exposure	Belgium	#7385E0
+country_exposure	Germany	#8697EF
+country_exposure	Netherlands	#99AAFF
+country_exposure	Bulgaria	#2966A3
+country_exposure	Romania	#3F7AB5
+country_exposure	Hungary	#558EC7
+country_exposure	Ukraine	#6CA3DA
+country_exposure	Poland	#82B7EC
+country_exposure	Russia	#99CCFF
+country_exposure	Greece	#298FA3
+country_exposure	Spain	#379AAE
+country_exposure	Portugal	#45A6BA
+country_exposure	North Macedonia	#53B2C5
+country_exposure	Italy	#61BED1
+country_exposure	Serbia	#6FCADC
+country_exposure	Bosnia and Herzegovina	#7DD6E8
+country_exposure	Croatia	#8BE2F3
+country_exposure	Slovenia	#99EEFF
+country_exposure	Egypt	#3DA329
+country_exposure	Algeria	#73D161
+country_exposure	Morocco	#AAFF99
+country_exposure	Senegal	#98E073
+country_exposure	South Africa	#BCE073
+country_exposure	Ecuador	#A37A29
+country_exposure	Brazil	#B08839
+country_exposure	Chile	#BD9649
+country_exposure	Uruguay	#CAA459
+country_exposure	Argentina	#D7B269
+country_exposure	Peru	#E4C079
+country_exposure	Colombia	#F1CE89
+country_exposure	Venezuela	#FFDD99
+country_exposure	Costa Rica	#A37A29
+country_exposure	Guatemala	#BA9245
+country_exposure	Belize	#D1AB61
+country_exposure	Mexico	#E8C47D
+country_exposure	Panama	#FFDD99
+country_exposure	USA-South	#A32929
+country_exposure	USA	#B53F3F
+country_exposure	USA-West	#C75555
+country_exposure	USA-Northeast	#DA6C6C
+country_exposure	USA-Midwest	#EC8282
+country_exposure	Canada	#663300
+
+division_exposure	Australia	#D161AB
+division_exposure	China	#A3298F
+division_exposure	Japan	#D161BE
+division_exposure	South Korea	#FF99EE
+division_exposure	Indonesia	#A329A3
+division_exposure	Philippines	#D161D1
+division_exposure	Thailand	#FF99FF
+division_exposure	India	#8F29A3
+division_exposure	Bangladesh	#AE4EC1
+division_exposure	Pakistan	#CE73E0
+division_exposure	Iran	#EE99FF
+division_exposure	Kazakhstan	#AB61D1
+division_exposure	Oman	#6629A3
+division_exposure	United Arab Emirates	#7135AD
+division_exposure	Qatar	#7C41B7
+division_exposure	Saudi Arabia	#884EC1
+division_exposure	Bahrain	#935ACB
+division_exposure	Kuwait	#9E67D6
+division_exposure	Israel	#AA73E0
+division_exposure	Lebanon	#B580EA
+division_exposure	Cyprus	#C08CF4
+division_exposure	Turkey	#CC99FF
+division_exposure	Ireland	#3D29A3
+division_exposure	Wales	#4935AD
+division_exposure	England	#5541B7
+division_exposure	Scotland	#614EC1
+division_exposure	Denmark	#6D5ACB
+division_exposure	Latvia	#7967D6
+division_exposure	Sweden	#8573E0
+division_exposure	Finland	#9180EA
+division_exposure	Norway	#9D8CF4
+division_exposure	Iceland	#AA99FF
+division_exposure	France	#293DA3
+division_exposure	Switzerland	#3B4FB2
+division_exposure	Austria	#4E61C1
+division_exposure	Luxembourg	#6173D1
+division_exposure	Belgium	#7385E0
+division_exposure	Germany	#8697EF
+division_exposure	Netherlands	#99AAFF
+division_exposure	Bulgaria	#2966A3
+division_exposure	Romania	#3F7AB5
+division_exposure	Hungary	#558EC7
+division_exposure	Ukraine	#6CA3DA
+division_exposure	Poland	#82B7EC
+division_exposure	Russia	#99CCFF
+division_exposure	Greece	#298FA3
+division_exposure	Spain	#379AAE
+division_exposure	Portugal	#45A6BA
+division_exposure	North Macedonia	#53B2C5
+division_exposure	Italy	#61BED1
+division_exposure	Serbia	#6FCADC
+division_exposure	Bosnia and Herzegovina	#7DD6E8
+division_exposure	Croatia	#8BE2F3
+division_exposure	Slovenia	#99EEFF
+division_exposure	Egypt	#3DA329
+division_exposure	Algeria	#73D161
+division_exposure	Morocco	#AAFF99
+division_exposure	Senegal	#86D161
+division_exposure	South Africa	#ABD161
+division_exposure	Ecuador	#A37A29
+division_exposure	Brazil	#B08839
+division_exposure	Chile	#BD9649
+division_exposure	Uruguay	#CAA459
+division_exposure	Argentina	#D7B269
+division_exposure	Peru	#E4C079
+division_exposure	Colombia	#F1CE89
+division_exposure	Venezuela	#FFDD99
+division_exposure	Costa Rica	#A37A29
+division_exposure	Guatemala	#BA9245
+division_exposure	Belize	#D1AB61
+division_exposure	Mexico	#E8C47D
+division_exposure	Panama	#FFDD99
+division_exposure	Florida	#A32929
+division_exposure	Texas	#A83030
+division_exposure	Maryland	#AE3737
+division_exposure	San Diego	#B43E3E
+division_exposure	California	#BA4545
+division_exposure	Utah	#BF4C4C
+division_exposure	Wyoming	#C55353
+division_exposure	Washington	#CB5A5A
+division_exposure	Massachusetts	#D16161
+division_exposure	Illinois	#D66868
+division_exposure	Michigan	#DC6F6F
+division_exposure	Wisconsin	#E27676
+division_exposure	Ontario	#E87D7D
+division_exposure	Quebec	#ED8484
+division_exposure	Newfoundland and Labrador	#F38B8B
+division_exposure	Alberta	#F99292
+division_exposure	British Columbia	#FF9999
+
+location	Australia	#D161AB
+location	China	#A3298F
+location	Japan	#D161BE
+location	South Korea	#FF99EE
+location	Indonesia	#A329A3
+location	Philippines	#D161D1
+location	Thailand	#FF99FF
+location	India	#8F29A3
+location	Bangladesh	#AE4EC1
+location	Pakistan	#CE73E0
+location	Iran	#EE99FF
+location	Kazakhstan	#AB61D1
+location	Oman	#6629A3
+location	United Arab Emirates	#7135AD
+location	Qatar	#7C41B7
+location	Saudi Arabia	#884EC1
+location	Bahrain	#935ACB
+location	Kuwait	#9E67D6
+location	Israel	#AA73E0
+location	Lebanon	#B580EA
+location	Cyprus	#C08CF4
+location	Turkey	#CC99FF
+location	Ireland	#3D29A3
+location	Wales	#4935AD
+location	England	#5541B7
+location	Scotland	#614EC1
+location	Denmark	#6D5ACB
+location	Latvia	#7967D6
+location	Sweden	#8573E0
+location	Finland	#9180EA
+location	Norway	#9D8CF4
+location	Iceland	#AA99FF
+location	France	#293DA3
+location	Switzerland	#3B4FB2
+location	Austria	#4E61C1
+location	Luxembourg	#6173D1
+location	Belgium	#7385E0
+location	Germany	#8697EF
+location	Netherlands	#99AAFF
+location	Bulgaria	#2966A3
+location	Romania	#3F7AB5
+location	Hungary	#558EC7
+location	Ukraine	#6CA3DA
+location	Poland	#82B7EC
+location	Russia	#99CCFF
+location	Greece	#298FA3
+location	Spain	#379AAE
+location	Portugal	#45A6BA
+location	North Macedonia	#53B2C5
+location	Italy	#61BED1
+location	Serbia	#6FCADC
+location	Bosnia and Herzegovina	#7DD6E8
+location	Croatia	#8BE2F3
+location	Slovenia	#99EEFF
+location	Egypt	#3DA329
+location	Algeria	#73D161
+location	Morocco	#AAFF99
+location	Senegal	#86D161
+location	South Africa	#ABD161
+location	Ecuador	#A37A29
+location	Brazil	#B08839
+location	Chile	#BD9649
+location	Uruguay	#CAA459
+location	Argentina	#D7B269
+location	Peru	#E4C079
+location	Colombia	#F1CE89
+location	Venezuela	#FFDD99
+location	Costa Rica	#A37A29
+location	Guatemala	#BA9245
+location	Belize	#D1AB61
+location	Mexico	#E8C47D
+location	Panama	#FFDD99
+location	Florida	#A32929
+location	Texas	#A93030
+location	Maryland	#AF3737
+location	San Diego	#B53F3F
+location	California	#BB4646
+location	Utah	#C14E4E
+location	Wyoming	#C75555
+location	Washington	#CD5D5D
+location	Illinois	#D46464
+location	Michigan	#DA6C6C
+location	Wisconsin	#E07373
+location	Ontario	#E67B7B
+location	Quebec	#EC8282
+location	Newfoundland and Labrador	#F28A8A
+location	Alberta	#F89191
+location	British Columbia	#FF9999
+
+
+area	International	#B3914D
+area	Other US areas	#3D668F
+area	New England	#8F3D3D
+
