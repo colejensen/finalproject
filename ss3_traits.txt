@@ -1,0 +1,1352 @@
+traits	region_exposure	country	country_exposure
+Algeria/G0638_2264/2020	Northern Africa	Algeria	Algeria
+Algeria/G0640_2265/2020	Northern Africa	Algeria	Algeria
+Algeria/G0860_2262/2020	Northern Africa	Algeria	Algeria
+Argentina/C121/2020	South America	Argentina	Argentina
+Argentina/C1374/2020	South America	Argentina	Argentina
+Argentina/Heritas_HG007/2020	South America	Argentina	Argentina
+Argentina/Heritas_HG014/2020	South America	Argentina	Argentina
+Argentina/Heritas_HG015/2020	South America	Argentina	Argentina
+Argentina/PAIS-A0003/2020	South America	Argentina	Argentina
+Argentina/PAIS-A0006/2020	South America	Argentina	Argentina
+Argentina/PAIS-A0017/2020	South America	Argentina	Argentina
+Argentina/PAIS-A0018/2020	South America	Argentina	Argentina
+Argentina/PAIS-A0019/2020	South America	Argentina	Argentina
+Argentina/PAIS-A0025/2020	South America	Argentina	Argentina
+Argentina/PAIS-A0027/2020	South America	Argentina	Argentina
+Argentina/PAIS-G0001/2020	South America	Argentina	Argentina
+Australia/NSW04/2020	Oceania	Australia	Australia
+Australia/NSW10/2020	Oceania	Australia	Australia
+Australia/NSW491/2020	Oceania	Australia	Australia
+Australia/NSW627/2020	Oceania	Australia	Australia
+Australia/NSW631/2020	Oceania	Australia	Australia
+Australia/NSW633/2020	Oceania	Australia	Australia
+Australia/NSW697/2020	Oceania	Australia	Australia
+Australia/SAP097/2020	Oceania	Australia	Australia
+Australia/SAP099/2020	Oceania	Australia	Australia
+Australia/SAP305/2020	Oceania	Australia	Australia
+Australia/SAP473/2020	Oceania	Australia	Australia
+Australia/VIC07/2020	Oceania	Australia	Australia
+Australia/VIC1151/2020	Oceania	Australia	Australia
+Australia/VIC1392/2020	Oceania	Australia	Australia
+Australia/VIC1504/2020	Oceania	Australia	Australia
+Australia/VIC1615/2020	Oceania	Australia	Australia
+Australia/VIC1682/2020	Oceania	Australia	Australia
+Australia/VIC1726/2020	Oceania	Australia	Australia
+Australia/VIC173/2020	Oceania	Australia	Australia
+Australia/VIC1888/2020	Oceania	Australia	Australia
+Australia/VIC2023/2020	Oceania	Australia	Australia
+Australia/VIC2142/2020	Oceania	Australia	Australia
+Australia/VIC441/2020	Oceania	Australia	Australia
+Australia/VIC84/2020	Oceania	Australia	Australia
+Australia/WA74/2020	Oceania	Australia	Australia
+Australia/WA78/2020	Oceania	Australia	Australia
+Australia/WA85/2020	Oceania	Australia	Australia
+Austria/CeMM0033/2020	Western Europe	Austria	Austria
+Austria/CeMM0098/2020	Western Europe	Austria	Austria
+Austria/CeMM0101/2020	Western Europe	Austria	Austria
+Austria/CeMM0121/2020	Western Europe	Austria	Austria
+Austria/CeMM0143/2020	Western Europe	Austria	Austria
+Austria/CeMM0157/2020	Western Europe	Austria	Austria
+Austria/CeMM0361/2020	Western Europe	Austria	Austria
+Austria/CeMM0418/2020	Western Europe	Austria	Austria
+Austria/CeMM0424/2020	Western Europe	Austria	Austria
+Austria/CeMM0546/2020	Western Europe	Austria	Austria
+Austria/CeMM0620/2020	Western Europe	Austria	Austria
+Austria/CeMM0622/2020	Western Europe	Austria	Austria
+Austria/CeMM0639/2020	Western Europe	Austria	Austria
+Austria/Graz-MUG17/2020	Western Europe	Austria	Austria
+Bahrein/BAH-02/2020	Western Asia	Bahrain	Bahrain
+Bahrein/BAH-06/2020	Western Asia	Bahrain	Bahrain
+Bahrein/BAH-09/2020	Western Asia	Bahrain	Bahrain
+Bahrein/BAH-11/2020	Western Asia	Bahrain	Bahrain
+Bahrein/BAH-16/2020	Western Asia	Bahrain	Bahrain
+Bahrein/BAH-21/2020	Western Asia	Bahrain	Bahrain
+Bangladesh/BARJ-CVASU-CTG-518/2020	Southern Asia	Bangladesh	Bangladesh
+Bangladesh/BCSIR-NILMRC-317/2020	Southern Asia	Bangladesh	Bangladesh
+Bangladesh/BCSIR-NILMRC-342/2020	Southern Asia	Bangladesh	Bangladesh
+Bangladesh/BCSIR-NILMRC_110/2020	Southern Asia	Bangladesh	Bangladesh
+Bangladesh/BCSIR-NILMRC_193/2020	Southern Asia	Bangladesh	Bangladesh
+Bangladesh/BCSIR-NILMRC_364/2020	Southern Asia	Bangladesh	Bangladesh
+Bangladesh/BCSIR-NILMRC_374/2020	Southern Asia	Bangladesh	Bangladesh
+Bangladesh/CHRF_0002/2020	Southern Asia	Bangladesh	Bangladesh
+Bangladesh/CHRF_0003/2020	Southern Asia	Bangladesh	Bangladesh
+Bangladesh/CHRF_0009/2020	Southern Asia	Bangladesh	Bangladesh
+Bangladesh/CHRF_0011/2020	Southern Asia	Bangladesh	Bangladesh
+Bangladesh/DU_50768/2020	Southern Asia	Bangladesh	Bangladesh
+Beijing/WH-09/2020	Eastern Asia	China	China
+Belgium/20A30/2020	Western Europe	Belgium	Belgium
+Belgium/20A42/2020	Western Europe	Belgium	Belgium
+Belgium/AKM-030670/2020	Western Europe	Belgium	Belgium
+Belgium/BA-02291/2020	Western Europe	Belgium	Belgium
+Belgium/BN-0330347/2020	Western Europe	Belgium	Belgium
+Belgium/FM-030592/2020	Western Europe	Belgium	Belgium
+Belgium/GLA-0324179/2020	Western Europe	Belgium	Belgium
+Belgium/HC-0408293/2020	Western Europe	Belgium	Belgium
+Belgium/HP-0319108/2020	Western Europe	Belgium	Belgium
+Belgium/ITM_C340/2020	Western Europe	Belgium	Belgium
+Belgium/ITM_C420/2020	Western Europe	Belgium	Belgium
+Belgium/JJC-0325165/2020	Western Europe	Belgium	Belgium
+Belgium/KN-030756/2020	Western Europe	Belgium	Belgium
+Belgium/ML-0324164/2020	Western Europe	Belgium	Belgium
+Belgium/OTG-0401375/2020	Western Europe	Belgium	Belgium
+Belgium/Rega-0326261/2020	Western Europe	Belgium	Belgium
+Belgium/Rega-0328192/2020	Western Europe	Belgium	Belgium
+Belgium/Rega-0328199/2020	Western Europe	Belgium	Belgium
+Belgium/Rega-0328202/2020	Western Europe	Belgium	Belgium
+Belgium/SEM-0324120/2020	Western Europe	Belgium	Belgium
+Belgium/SG-0507420/2020	Western Europe	Belgium	Belgium
+Belgium/UGent-126/2020	Western Europe	Belgium	Belgium
+Belgium/UGent-34/2020	Western Europe	Belgium	Belgium
+Belgium/UGent-65/2020	Western Europe	Belgium	Belgium
+Belgium/UGent-78/2020	Western Europe	Belgium	Belgium
+Belgium/UGent-79/2020	Western Europe	Belgium	Belgium
+Belgium/ULG-0190/2020	Western Europe	Belgium	Belgium
+Belgium/ULG-10051/2020	Western Europe	Belgium	Belgium
+Belgium/ULG-10089/2020	Western Europe	Belgium	Belgium
+Belgium/ULG-10097/2020	Western Europe	Belgium	Belgium
+Belgium/ULG-10109/2020	Western Europe	Belgium	Belgium
+Belgium/ULG-10133/2020	Western Europe	Belgium	Belgium
+Belgium/ULG-10149/2020	Western Europe	Belgium	Belgium
+Belgium/ULG-10150/2020	Western Europe	Belgium	Belgium
+Belgium/ULG-10151/2020	Western Europe	Belgium	Belgium
+Belgium/ULG-10154/2020	Western Europe	Belgium	Belgium
+Belgium/ULG-10176/2020	Western Europe	Belgium	Belgium
+Belgium/ULG-10197/2020	Western Europe	Belgium	Belgium
+Belgium/ULG-10206/2020	Western Europe	Belgium	Belgium
+Belgium/ULG-10212/2020	Western Europe	Belgium	Belgium
+Belgium/ULG-10230/2020	Western Europe	Belgium	Belgium
+Belgium/ULG-10238/2020	Western Europe	Belgium	Belgium
+Belgium/ULG-10243/2020	Western Europe	Belgium	Belgium
+Belgium/ULG-10245/2020	Western Europe	Belgium	Belgium
+Belgium/ULG-10256/2020	Western Europe	Belgium	Belgium
+Belgium/ULG-10270/2020	Western Europe	Belgium	Belgium
+Belgium/ULG-6948/2020	Western Europe	Belgium	Belgium
+Belgium/ULG-9634/2020	Western Europe	Belgium	Belgium
+Belgium/ULG-9732/2020	Western Europe	Belgium	Belgium
+Belgium/ULG-9735/2020	Western Europe	Belgium	Belgium
+Belgium/VBWF-0330329/2020	Western Europe	Belgium	Belgium
+Belgium/VS-030542/2020	Western Europe	Belgium	Belgium
+Belgium/rega-0411457/2020	Western Europe	Belgium	Belgium
+Belgium/rega-0423299/2020	Western Europe	Belgium	Belgium
+Belgium/rega-0428427/2020	Western Europe	Belgium	Belgium
+Belize/CDC-6840/2020	Central America	Belize	Belize
+Belize/CDC-6846/2020	Central America	Belize	Belize
+Belize/CDC-6851/2020	Central America	Belize	Belize
+Belize/CDC-6852/2020	Central America	Belize	Belize
+BosniaandHerzegovina/01-Livno/2020	Southern Europe	Bosnia and Herzegovina	Bosnia and Herzegovina
+BosniaandHerzegovina/02-BanjaLuka/2020	Southern Europe	Bosnia and Herzegovina	Bosnia and Herzegovina
+BosniaandHerzegovina/ChVir7346/2020	Southern Europe	Bosnia and Herzegovina	Bosnia and Herzegovina
+BosniaandHerzegovina/ChVir7350/2020	Southern Europe	Bosnia and Herzegovina	Bosnia and Herzegovina
+BosniaandHerzegovina/ChVir7353/2020	Southern Europe	Bosnia and Herzegovina	Bosnia and Herzegovina
+BosniaandHerzegovina/ChVir7354/2020	Southern Europe	Bosnia and Herzegovina	Bosnia and Herzegovina
+BosniaandHerzegovina/ChVir7361/2020	Southern Europe	Bosnia and Herzegovina	Bosnia and Herzegovina
+BosniaandHerzegovina/ChVir7362/2020	Southern Europe	Bosnia and Herzegovina	Bosnia and Herzegovina
+BosniaandHerzegovina/ChVir7375/2020	Southern Europe	Bosnia and Herzegovina	Bosnia and Herzegovina
+BosniaandHerzegovina/ChVir7379/2020	Southern Europe	Bosnia and Herzegovina	Bosnia and Herzegovina
+BosniaandHerzegovina/ChVir7387/2020	Southern Europe	Bosnia and Herzegovina	Bosnia and Herzegovina
+BosniaandHerzegovina/ChVir7402/2020	Southern Europe	Bosnia and Herzegovina	Bosnia and Herzegovina
+Brazil/DF-862/2020	South America	Brazil	Brazil
+Brazil/L8_CD107/2020	South America	Brazil	Brazil
+Brazil/MG-CV43/2020	South America	Brazil	Brazil
+Brazil/PE-AMU0036/2020	South America	Brazil	Brazil
+Brazil/PE-IAM87/2020	South America	Brazil	Brazil
+Brazil/RJ-2044/2020	South America	Brazil	Brazil
+Brazil/RJ-INCA-C27/2020	South America	Brazil	Brazil
+Brazil/RJ-INCA-C46/2020	South America	Brazil	Brazil
+Brazil/RJ-INCA-I57/2020	South America	Brazil	Brazil
+Brazil/RJ-UFRJ-57437/2020	South America	Brazil	Brazil
+Brazil/RJ-UFRJ-9331/2020	South America	Brazil	Brazil
+Brazil/RJ0254/2020	South America	Brazil	Brazil
+Brazil/RJ0265/2020	South America	Brazil	Brazil
+Brazil/RJ0282/2020	South America	Brazil	Brazil
+Brazil/RO-03/2020	South America	Brazil	Brazil
+Brazil/SP-06/2020	South America	Brazil	Brazil
+Brazil/SP-09/2020	South America	Brazil	Brazil
+Brazil/SP-127/2020	South America	Brazil	Brazil
+Brazil/SP-146/2020	South America	Brazil	Brazil
+Brazil/SP-505/2020	South America	Brazil	Brazil
+Brazil/SP-516/2020	South America	Brazil	Brazil
+Brazil/SP-526/2020	South America	Brazil	Brazil
+Brazil/SP-600/2020	South America	Brazil	Brazil
+Brazil/SP-L1-CAMPI13/2020	South America	Brazil	Brazil
+Brazil/SP-L1-CAMPI14/2020	South America	Brazil	Brazil
+Brazil/SP-L10-CD144/2020	South America	Brazil	Brazil
+Brazil/SP-L11-CD185-2/2020	South America	Brazil	Brazil
+Brazil/SP-L13-CD29/2020	South America	Brazil	Brazil
+Brazil/SP-L15-CD282/2020	South America	Brazil	Brazil
+Brazil/SP-L22-CD476/2020	South America	Brazil	Brazil
+Brazil/SP-L22-CD484/2020	South America	Brazil	Brazil
+Brazil/SP-L5-CAMPI114/2020	South America	Brazil	Brazil
+Brazil/SP-L7-CD57/2020	South America	Brazil	Brazil
+Brazil/SP-L7-CD65/2020	South America	Brazil	Brazil
+Brazil/SP-L7-CD74/2020	South America	Brazil	Brazil
+Bulgaria/06/2020	Eastern Europe	Bulgaria	Bulgaria
+Bulgaria/15/2020	Eastern Europe	Bulgaria	Bulgaria
+Bulgaria/16/2020	Eastern Europe	Bulgaria	Bulgaria
+Bulgaria/17/2020	Eastern Europe	Bulgaria	Bulgaria
+Bulgaria/21/2020	Eastern Europe	Bulgaria	Bulgaria
+Bulgaria/24/2020	Eastern Europe	Bulgaria	Bulgaria
+Bulgaria/27/2020	Eastern Europe	Bulgaria	Bulgaria
+Bulgaria/36/2020	Eastern Europe	Bulgaria	Bulgaria
+Bulgaria/41/2020	Eastern Europe	Bulgaria	Bulgaria
+Canada/AB-Z0001/2020	North America	Canada	Canada
+Canada/AB-Z0002/2020	North America	Canada	Canada
+Canada/BC_4122951/2020	North America	Canada	Canada
+Canada/BC_8894200/2020	North America	Canada	Canada
+Canada/NL_84/2020	North America	Canada	Canada
+Canada/ON-UHTC_0002/2020	North America	Canada	Canada
+Canada/ON-UHTC_0066/2020	North America	Canada	Canada
+Canada/ON-UHTC_0068/2020	North America	Canada	Canada
+Canada/ON_PHL4181/2020	North America	Canada	Canada
+Canada/ON_PHL5472/2020	North America	Canada	Canada
+Canada/ON_PHL5930/2020	North America	Canada	Canada
+Canada/ON_PHL6884/2020	North America	Canada	Canada
+Canada/ON_PHL8580/2020	North America	Canada	Canada
+Canada/QC-AK7/2020	North America	Canada	Canada
+Canada/QC_AK1/2020	North America	Canada	Canada
+Canada/QC_AN8/2020	North America	Canada	Canada
+Canada/QC_AQ8/2020	North America	Canada	Canada
+Canada/QC_AR5/2020	North America	Canada	Canada
+Canada/QC_AT4/2020	North America	Canada	Canada
+Canada/Qc-L00241168/2020	North America	Canada	Canada
+Canada/Qc-L00241344/2020	North America	Canada	Canada
+Chile/Copiapo-00006/2020	South America	Chile	Chile
+Chile/Coyhaique_1/2020	South America	Chile	Chile
+Chile/Melipilla-32205/2020	South America	Chile	Chile
+Chile/PuenteAlto-29192/2020	South America	Chile	Chile
+Chile/Punta_Arenas_10/2020	South America	Chile	Chile
+Chile/Punta_Arenas_16/2020	South America	Chile	Chile
+Chile/Rancagua_3/2020	South America	Chile	Chile
+Chile/Rancagua_4/2020	South America	Chile	Chile
+Chile/Rancagua_5/2020	South America	Chile	Chile
+Chile/Santiago-05230/2020	South America	Chile	Chile
+Chile/Santiago_15/2020	South America	Chile	Chile
+Chile/Santiago_20/2020	South America	Chile	Chile
+Chile/Santiago_21/2020	South America	Chile	Chile
+Chile/Santiago_3/2020	South America	Chile	Chile
+Chile/Santiago_36/2020	South America	Chile	Chile
+Chile/Santiago_4/2020	South America	Chile	Chile
+Chile/Santiago_44/2020	South America	Chile	Chile
+Chile/Santiago_52/2020	South America	Chile	Chile
+Chile/Santiago_58/2020	South America	Chile	Chile
+Chile/Santiago_70/2020	South America	Chile	Chile
+Chile/Santiago_72/2020	South America	Chile	Chile
+Chile/Santiago_75/2020	South America	Chile	Chile
+Chile/Santiago_76/2020	South America	Chile	Chile
+Chile/Santiago_8/2020	South America	Chile	Chile
+Chile/Santiago_80/2020	South America	Chile	Chile
+Chile/Santiago_9/2020	South America	Chile	Chile
+Chile/Talca-2/2020	South America	Chile	Chile
+Chile/Temuco_14/2020	South America	Chile	Chile
+Chile/Temuco_2/2020	South America	Chile	Chile
+Chile/Temuco_5/2020	South America	Chile	Chile
+Chile/VinaDelMar-28875/2020	South America	Chile	Chile
+Colombia/88712/2020	South America	Colombia	Colombia
+Colombia/95839/2020	South America	Colombia	Colombia
+Colombia/Bogota78390/2020	South America	Colombia	Colombia
+Colombia/Cali-01-2/2020	South America	Colombia	Colombia
+Colombia/Cali-01/2020	South America	Colombia	Colombia
+Colombia/GUR-0206/2020	South America	Colombia	Colombia
+Colombia/GUR-0207/2020	South America	Colombia	Colombia
+Colombia/GUR-0215/2020	South America	Colombia	Colombia
+Colombia/GUV-92256/2020	South America	Colombia	Colombia
+Colombia/GVI-93381/2020	South America	Colombia	Colombia
+Colombia/GVI-93450/2020	South America	Colombia	Colombia
+Colombia/GVI-93457/2020	South America	Colombia	Colombia
+Colombia/GVI-98011/2020	South America	Colombia	Colombia
+Colombia/GVI-98032/2020	South America	Colombia	Colombia
+Colombia/INS-101935/2020	South America	Colombia	Colombia
+Colombia/INS-103303/2020	South America	Colombia	Colombia
+Colombia/INS-79930/2020	South America	Colombia	Colombia
+Colombia/INS-79943/2020	South America	Colombia	Colombia
+Colombia/INS-80656/2020	South America	Colombia	Colombia
+Colombia/INS-82099/2020	South America	Colombia	Colombia
+Colombia/T1/2020	South America	Colombia	Colombia
+CostaRica/CRV-0016/2020	Central America	Costa Rica	Costa Rica
+CostaRica/CV-0007/2020	Central America	Costa Rica	Costa Rica
+CostaRica/INC-0028/2020	Central America	Costa Rica	Costa Rica
+CostaRica/INC-0038/2020	Central America	Costa Rica	Costa Rica
+CostaRica/INC-0045/2020	Central America	Costa Rica	Costa Rica
+CostaRica/INC-0052/2020	Central America	Costa Rica	Costa Rica
+CostaRica/INC-0054/2020	Central America	Costa Rica	Costa Rica
+CostaRica/INC-0062/2020	Central America	Costa Rica	Costa Rica
+CostaRica/INC-0070/2020	Central America	Costa Rica	Costa Rica
+Croatia/14412_Koprivnica/2020	Southern Europe	Croatia	Croatia
+Croatia/17-S7new/2020	Southern Europe	Croatia	Croatia
+Croatia/1761_Dubrovnik/2020	Southern Europe	Croatia	Croatia
+Croatia/592_Osijek/2020	Southern Europe	Croatia	Croatia
+Croatia/AU-S10new/2020	Southern Europe	Croatia	Croatia
+Croatia/ZG-297-20/2020	Southern Europe	Croatia	Croatia
+Cyprus/001/2020	Western Asia	Cyprus	Cyprus
+Cyprus/004/2020	Western Asia	Cyprus	Cyprus
+Cyprus/005/2020	Western Asia	Cyprus	Cyprus
+Cyprus/006/2020	Western Asia	Cyprus	Cyprus
+Cyprus/007/2020	Western Asia	Cyprus	Cyprus
+Cyprus/008/2020	Western Asia	Cyprus	Cyprus
+Denmark/ALAB-HH-145/2020	Northern Europe	Denmark	Denmark
+Denmark/ALAB-HH-190/2020	Northern Europe	Denmark	Denmark
+Denmark/ALAB-HH-220/2020	Northern Europe	Denmark	Denmark
+Denmark/ALAB-HH-246/2020	Northern Europe	Denmark	Denmark
+Denmark/ALAB-HH-266/2020	Northern Europe	Denmark	Denmark
+Denmark/ALAB-HH18/2020	Northern Europe	Denmark	Denmark
+Denmark/ALAB-HH84/2020	Northern Europe	Denmark	Denmark
+Denmark/ALAB-SSI-1393/2020	Northern Europe	Denmark	Denmark
+Denmark/ALAB-SSI-644/2020	Northern Europe	Denmark	Denmark
+Denmark/ALAB-SSI-805/2020	Northern Europe	Denmark	Denmark
+Denmark/ALAB-SSI-833/2020	Northern Europe	Denmark	Denmark
+Denmark/ALAB-SSI117/2020	Northern Europe	Denmark	Denmark
+Denmark/SSI-01/2020	Northern Europe	Denmark	Denmark
+Ecuador/20640/2020	South America	Ecuador	Ecuador
+Ecuador/23890/2020	South America	Ecuador	Ecuador
+Ecuador/36192/2020	South America	Ecuador	Ecuador
+Ecuador/36226/2020	South America	Ecuador	Ecuador
+Ecuador/52389/2020	South America	Ecuador	Ecuador
+Ecuador/52872/2020	South America	Ecuador	Ecuador
+Ecuador/HEE-01/2020	South America	Ecuador	Ecuador
+Ecuador/HGSQ-USFQ-010/2020	South America	Ecuador	Ecuador
+Ecuador/USFQ-004/2020	South America	Ecuador	Ecuador
+Ecuador/USFQ-020/2020	South America	Ecuador	Ecuador
+Ecuador/USFQ-039/2020	South America	Ecuador	Ecuador
+Ecuador/USFQ-045/2020	South America	Ecuador	Ecuador
+Ecuador/USFQ-096/2020	South America	Ecuador	Ecuador
+Ecuador/USFQ-111/2020	South America	Ecuador	Ecuador
+Ecuador/USFQ-1112/2020	South America	Ecuador	Ecuador
+Ecuador/USFQ-112/2020	South America	Ecuador	Ecuador
+Ecuador/USFQ-113/2020	South America	Ecuador	Ecuador
+Ecuador/USFQ-120/2020	South America	Ecuador	Ecuador
+Ecuador/USFQ-127/2020	South America	Ecuador	Ecuador
+Ecuador/USFQ-128/2020	South America	Ecuador	Ecuador
+Ecuador/USFQ-133/2020	South America	Ecuador	Ecuador
+Ecuador/USFQ-139/2020	South America	Ecuador	Ecuador
+Ecuador/USFQ-707/2020	South America	Ecuador	Ecuador
+Egypt/CUNCI-HGC004/2020	Northern Africa	Egypt	Egypt
+Egypt/CUNCI-HGC4I004/2020	Northern Africa	Egypt	Egypt
+Egypt/CUNCI-HGC6I009/2020	Northern Africa	Egypt	Egypt
+Egypt/MASRI-011/2020	Northern Africa	Egypt	Egypt
+Egypt/MASRI-023/2020	Northern Africa	Egypt	Egypt
+Egypt/MASRI-030/2020	Northern Africa	Egypt	Egypt
+Egypt/NRC-03/2020	Northern Africa	Egypt	Egypt
+England/200690306/2020	Northern Europe	United Kingdom	United Kingdom
+England/20072030304/2020	Northern Europe	United Kingdom	United Kingdom
+England/20080000204/2020	Northern Europe	United Kingdom	United Kingdom
+England/200920118/2020	Northern Europe	United Kingdom	United Kingdom
+England/20118108604/2020	Northern Europe	United Kingdom	United Kingdom
+England/20122034904/2020	Northern Europe	United Kingdom	United Kingdom
+England/20140007202/2020	Northern Europe	United Kingdom	United Kingdom
+England/20148003404/2020	Northern Europe	United Kingdom	United Kingdom
+England/20164069104/2020	Northern Europe	United Kingdom	United Kingdom
+England/202691845/2020	Northern Europe	United Kingdom	United Kingdom
+England/BIRM-5E935/2020	Northern Europe	United Kingdom	United Kingdom
+England/BRIS-121A73/2020	Northern Europe	United Kingdom	United Kingdom
+England/BRIS-12758B/2020	Northern Europe	United Kingdom	United Kingdom
+England/BRIS-133610/2020	Northern Europe	United Kingdom	United Kingdom
+England/CAMB-1AC7E2/2020	Northern Europe	United Kingdom	United Kingdom
+England/CAMB-1B0648/2020	Northern Europe	United Kingdom	United Kingdom
+England/CAMB-1B59A4/2020	Northern Europe	United Kingdom	United Kingdom
+England/CAMB-7F673/2020	Northern Europe	United Kingdom	United Kingdom
+England/CAMB-7FC17/2020	Northern Europe	United Kingdom	United Kingdom
+England/CAMB-80F83/2020	Northern Europe	United Kingdom	United Kingdom
+England/EXET-136000/2020	Northern Europe	United Kingdom	United Kingdom
+England/GSTT-265D85B/2020	Northern Europe	United Kingdom	United Kingdom
+England/LCST-24D6B62/2020	Northern Europe	United Kingdom	United Kingdom
+England/NORT-281023/2020	Northern Europe	United Kingdom	United Kingdom
+England/NORT-293844/2020	Northern Europe	United Kingdom	United Kingdom
+England/NOTT-10E818/2020	Northern Europe	United Kingdom	United Kingdom
+England/NOTT-111C34/2020	Northern Europe	United Kingdom	United Kingdom
+England/NOTT-1121F8/2020	Northern Europe	United Kingdom	United Kingdom
+England/PORT-2D0F37/2020	Northern Europe	United Kingdom	United Kingdom
+England/PORT-2D1060/2020	Northern Europe	United Kingdom	United Kingdom
+England/SHEF-CE226/2020	Northern Europe	United Kingdom	United Kingdom
+England/SHEF-CF489/2020	Northern Europe	United Kingdom	United Kingdom
+Finland/10A21S14/2020	Northern Europe	Finland	Finland
+Finland/11May41S7/2020	Northern Europe	Finland	Finland
+Finland/13M60/2020	Northern Europe	Finland	Finland
+Finland/16M32/2020	Northern Europe	Finland	Finland
+Finland/17A37S12/2020	Northern Europe	Finland	Finland
+Finland/20A51S7/2020	Northern Europe	Finland	Finland
+Finland/26A44S5/2020	Northern Europe	Finland	Finland
+Finland/26M7974/2020	Northern Europe	Finland	Finland
+Finland/29M36S1/2020	Northern Europe	Finland	Finland
+Finland/8May24S14/2020	Northern Europe	Finland	Finland
+Finland/FIN-318/2020	Northern Europe	Finland	Finland
+Foshan/20SF207/2020	Eastern Asia	China	China
+France/211_80/2020	Western Europe	France	France
+France/ARA10251/2020	Western Europe	France	France
+France/ARA10580/2020	Western Europe	France	France
+France/ARA10863/2020	Western Europe	France	France
+France/ARA12260/2020	Western Europe	France	France
+France/ARA12576/2020	Western Europe	France	France
+France/ARA12740/2020	Western Europe	France	France
+France/ARA18826/2020	Western Europe	France	France
+France/ARA20254/2020	Western Europe	France	France
+France/ARA21210/2020	Western Europe	France	France
+France/ARA22592/2020	Western Europe	France	France
+France/ARA24115/2020	Western Europe	France	France
+France/B5465/2020	Western Europe	France	France
+France/BFC5019/2020	Western Europe	France	France
+France/FR/2020	Western Europe	France	France
+France/HF1463/2020	Western Europe	France	France
+France/HF2586/2020	Western Europe	France	France
+France/HF2948/2020	Western Europe	France	France
+France/IDF0372-isl/2020	Western Europe	France	France
+France/IDF0515-isl/2020	Western Europe	France	France
+France/IDF2359/2020	Western Europe	France	France
+France/IDF2410/2020	Western Europe	France	France
+France/IDF3218/2020	Western Europe	France	France
+France/IDF5655/2020	Western Europe	France	France
+France/IDF5850/2020	Western Europe	France	France
+France/Lyon_06487/2020	Western Europe	France	France
+France/Lyon_0668/2020	Western Europe	France	France
+France/OCC-27/2020	Western Europe	France	France
+France/OCC-30/2020	Western Europe	France	France
+France/PL1643/2020	Western Europe	France	France
+France/RA739/2020	Western Europe	France	France
+France/Valence_532/2020	Western Europe	France	France
+Germany/BW-UT-005/2020	Western Europe	Germany	Germany
+Germany/BW-UT-006/2020	Western Europe	Germany	Germany
+Germany/BY-MVP-0005/2020	Western Europe	Germany	Germany
+Germany/BY-MVP-0012/2020	Western Europe	Germany	Germany
+Germany/BY-MVP-0073/2020	Western Europe	Germany	Germany
+Germany/BY-MVP-0087/2020	Western Europe	Germany	Germany
+Germany/BY-MVP-0203/2020	Western Europe	Germany	Germany
+Germany/BY-MVP-0218/2020	Western Europe	Germany	Germany
+Germany/BY-MVP-0240/2020	Western Europe	Germany	Germany
+Germany/BY-MVP-0253/2020	Western Europe	Germany	Germany
+Germany/BavPat2-ChVir984-ChVir1017/2020	Western Europe	Germany	Germany
+Germany/BavPat8-ChVir1356/2020	Western Europe	Germany	Germany
+Germany/NRW-01/2020	Western Europe	Germany	Germany
+Germany/NRW-011/2020	Western Europe	Germany	Germany
+Germany/NRW-13/2020	Western Europe	Germany	Germany
+Germany/NRW-MPP-16/2020	Western Europe	Germany	Germany
+Germany/NRW-MPP-21/2020	Western Europe	Germany	Germany
+Germany/NRW-MPP-25/2020	Western Europe	Germany	Germany
+Germany/NRW-MPP-33/2020	Western Europe	Germany	Germany
+Greece/127_HPI/2020	Southern Europe	Greece	Greece
+Greece/15005_HPI/2020	Southern Europe	Greece	Greece
+Greece/18799_HPI/2020	Southern Europe	Greece	Greece
+Greece/19553_HPI/2020	Southern Europe	Greece	Greece
+Greece/212_34023/2020	Southern Europe	Greece	Greece
+Greece/222_33921/2020	Southern Europe	Greece	Greece
+Greece/234_31670/2020	Southern Europe	Greece	Greece
+Greece/26074_HPI/2020	Southern Europe	Greece	Greece
+Greece/39/2020	Southern Europe	Greece	Greece
+Greece/9060_HPI/2020	Southern Europe	Greece	Greece
+Greece/NIC_5/2020	Southern Europe	Greece	Greece
+Guangdong/20SF012/2020	Eastern Asia	China	China
+Guangdong/20SF156/2020	Eastern Asia	China	China
+Guatemala/CDC-1227/2020	Central America	Guatemala	Guatemala
+Guatemala/CDC-1229/2020	Central America	Guatemala	Guatemala
+Guatemala/CDC-1230/2020	Central America	Guatemala	Guatemala
+Guatemala/CDC-1231/2020	Central America	Guatemala	Guatemala
+Guatemala/CDC-1232/2020	Central America	Guatemala	Guatemala
+Guatemala/CDC-1233/2020	Central America	Guatemala	Guatemala
+Guatemala/CDC-1235/2020	Central America	Guatemala	Guatemala
+Guatemala/CDC-1236/2020	Central America	Guatemala	Guatemala
+Hungary/SRC-00183/2020	Eastern Europe	Hungary	Hungary
+Hungary/UD-10333/2020	Eastern Europe	Hungary	Hungary
+Hungary/UD-7373/2020	Eastern Europe	Hungary	Hungary
+Hungary/UD-7729/2020	Eastern Europe	Hungary	Hungary
+Hungary/US-1819lc/2020	Eastern Europe	Hungary	Hungary
+Hungary/US-2587w/2020	Eastern Europe	Hungary	Hungary
+Hungary/US-568w/2020	Eastern Europe	Hungary	Hungary
+Iceland/299/2020	Northern Europe	Iceland	Iceland
+Iceland/560/2020	Northern Europe	Iceland	Iceland
+Iceland/588/2020	Northern Europe	Iceland	Iceland
+Iceland/65/2020	Northern Europe	Iceland	Iceland
+Iceland/91/2020	Northern Europe	Iceland	Iceland
+India/AFMC_5653/2020	Southern Asia	India	India
+India/CCMB_K499/2020	Southern Asia	India	India
+India/GBRC287/2020	Southern Asia	India	India
+India/GBRC302a/2020	Southern Asia	India	India
+India/GBRC329/2020	Southern Asia	India	India
+India/GBRC332a/2020	Southern Asia	India	India
+India/GBRC337a/2020	Southern Asia	India	India
+India/IK1/2020	Southern Asia	India	India
+India/ILSCV21587/2020	Southern Asia	India	India
+India/ILSCV32899/2020	Southern Asia	India	India
+India/InStem_NCBS_0022/2020	Southern Asia	India	India
+India/NCDC-01638/2020	Southern Asia	India	India
+India/NIHSAD-2404-64/2020	Southern Asia	India	India
+India/NIV-36444/2020	Southern Asia	India	India
+India/NIV-5097/2020	Southern Asia	India	India
+India/NIV-981/2020	Southern Asia	India	India
+India/NIV-QA-709/2020	Southern Asia	India	India
+India/S53/2020	Southern Asia	India	India
+India/S58/2020	Southern Asia	India	India
+India/c31/2020	Southern Asia	India	India
+Indonesia/EJ-ITD1273NT/2020	Southeastern Asia	Indonesia	Indonesia
+Indonesia/EJ-ITD2766NT/2020	Southeastern Asia	Indonesia	Indonesia
+Indonesia/EJ-ITD3590NT/2020	Southeastern Asia	Indonesia	Indonesia
+Indonesia/JABAR-L4173/2020	Southeastern Asia	Indonesia	Indonesia
+Indonesia/JKT-EIJK01/2020	Southeastern Asia	Indonesia	Indonesia
+Indonesia/JKT-EIJK0317/2020	Southeastern Asia	Indonesia	Indonesia
+Indonesia/JKT-EIJK07/2020	Southeastern Asia	Indonesia	Indonesia
+Iran/HGRC-01-IPI-8206/2020	Southern Asia	Iran	Iran
+Iran/HGRC-2-2162/2020	Southern Asia	Iran	Iran
+Iran/IRVSH-01/2020	Southern Asia	Iran	Iran
+Iran/IRVSH2/2020	Southern Asia	Iran	Iran
+Iran/KHGRC-1.1-IPI-8206/2020	Southern Asia	Iran	Iran
+Iran/KHGRC-2-2162/2020	Southern Asia	Iran	Iran
+Iran/KHGRC-3-2178/2020	Southern Asia	Iran	Iran
+Iran/PN2179/2020	Southern Asia	Iran	Iran
+Ireland/20IRL22140/2020	Northern Europe	Ireland	Ireland
+Ireland/20IRL22151/2020	Northern Europe	Ireland	Ireland
+Ireland/20IRL22673/2020	Northern Europe	Ireland	Ireland
+Ireland/20IRL26172/2020	Northern Europe	Ireland	Ireland
+Ireland/20IRL27755/2020	Northern Europe	Ireland	Ireland
+Ireland/20IRL43979/2020	Northern Europe	Ireland	Ireland
+Ireland/20IRL47314/2020	Northern Europe	Ireland	Ireland
+Ireland/20IRL47363/2020	Northern Europe	Ireland	Ireland
+Ireland/21023/2020	Northern Europe	Ireland	Ireland
+Ireland/24052/2020	Northern Europe	Ireland	Ireland
+Ireland/70IRL98345/2020	Northern Europe	Ireland	Ireland
+Ireland/71IRL00996/2020	Northern Europe	Ireland	Ireland
+Ireland/71IRL06455/2020	Northern Europe	Ireland	Ireland
+Ireland/71IRL07034/2020	Northern Europe	Ireland	Ireland
+Ireland/71IRL07442/2020	Northern Europe	Ireland	Ireland
+Ireland/71IRL17107/2020	Northern Europe	Ireland	Ireland
+Ireland/71IRL21349/2020	Northern Europe	Ireland	Ireland
+Ireland/71IRL72426/2020	Northern Europe	Ireland	Ireland
+Ireland/71IRL77106/2020	Northern Europe	Ireland	Ireland
+Ireland/71IRL81151/2020	Northern Europe	Ireland	Ireland
+Ireland/71IRL85745/2020	Northern Europe	Ireland	Ireland
+Ireland/Dublin-19072/2020	Northern Europe	Ireland	Ireland
+Ireland/Dublin-22428/2020	Northern Europe	Ireland	Ireland
+Israel/2020063/2020	Western Asia	Israel	Israel
+Israel/2047772/2020	Western Asia	Israel	Israel
+Israel/2099019/2020	Western Asia	Israel	Israel
+Israel/51137031/2020	Western Asia	Israel	Israel
+Israel/701002538/2020	Western Asia	Israel	Israel
+Israel/CVL-n-10864/2020	Western Asia	Israel	Israel
+Israel/CVL-n-12003/2020	Western Asia	Israel	Israel
+Israel/CVL-n-7154/2020	Western Asia	Israel	Israel
+Israel/CVL-n-8411/2020	Western Asia	Israel	Israel
+Israel/CVL-n26112/2020	Western Asia	Israel	Israel
+Israel/ISR_JP0320/2020	Western Asia	Israel	Israel
+Israel/n14264/2020	Western Asia	Israel	Israel
+Italy/2389/2020	Southern Europe	Italy	Italy
+Italy/4411/2020	Southern Europe	Italy	Italy
+Italy/78952/2020	Southern Europe	Italy	Italy
+Italy/BG-7158-24Feb/2020	Southern Europe	Italy	Italy
+Italy/BS-12256-29Feb/2020	Southern Europe	Italy	Italy
+Italy/CDG1/2020	Southern Europe	Italy	Italy
+Italy/CEINGE-Naples1/2020	Southern Europe	Italy	Italy
+Italy/FVG-ICGEB_S14/2020	Southern Europe	Italy	Italy
+Italy/FVG-ICGEB_S211/2020	Southern Europe	Italy	Italy
+Italy/FVG-ICGEB_S218/2020	Southern Europe	Italy	Italy
+Italy/FVG-ICGEB_atr21/2020	Southern Europe	Italy	Italy
+Italy/FVG-ICGEB_bal16/2020	Southern Europe	Italy	Italy
+Italy/HSacco-2/2020	Southern Europe	Italy	Italy
+Italy/Hsacco-11/2020	Southern Europe	Italy	Italy
+Italy/Hsacco-13/2020	Southern Europe	Italy	Italy
+Italy/Hsacco-16/2020	Southern Europe	Italy	Italy
+Italy/Hsacco-19/2020	Southern Europe	Italy	Italy
+Italy/Hsacco-21/2020	Southern Europe	Italy	Italy
+Italy/INMI18/2020	Southern Europe	Italy	Italy
+Italy/INMI19/2020	Southern Europe	Italy	Italy
+Italy/INMI4/2020	Southern Europe	Italy	Italy
+Italy/INMI9/2020	Southern Europe	Italy	Italy
+Italy/IZSPB_2161/2020	Southern Europe	Italy	Italy
+Italy/IZSPB_4162/2020	Southern Europe	Italy	Italy
+Italy/IZSPB_802/2020	Southern Europe	Italy	Italy
+Italy/IZSPB_809/2020	Southern Europe	Italy	Italy
+Italy/LO-13075-B/2020	Southern Europe	Italy	Italy
+Italy/PV-11951-28Feb/2020	Southern Europe	Italy	Italy
+Italy/TE12759/2020	Southern Europe	Italy	Italy
+Italy/TE26643/2020	Southern Europe	Italy	Italy
+Italy/TE26969/2020	Southern Europe	Italy	Italy
+Italy/TE4959/2020	Southern Europe	Italy	Italy
+Italy/TE5472/2020	Southern Europe	Italy	Italy
+Italy/TE5674/2020	Southern Europe	Italy	Italy
+Italy/TE6572/2020	Southern Europe	Italy	Italy
+Italy/VR_20COV11-181/2020	Southern Europe	Italy	Italy
+Italy/VR_20COV18-48/2020	Southern Europe	Italy	Italy
+Japan/PG-0015/2020	Eastern Asia	Japan	Japan
+Japan/PG-0016/2020	Eastern Asia	Japan	Japan
+Jingzhou/HBCDC-HB-01/2020	Eastern Asia	China	China
+Kazakhstan/16173/2020	Central Asia	Kazakhstan	Kazakhstan
+Kazakhstan/18243/2020	Central Asia	Kazakhstan	Kazakhstan
+Kazakhstan/22044/2020	Central Asia	Kazakhstan	Kazakhstan
+Kazakhstan/26497/2020	Central Asia	Kazakhstan	Kazakhstan
+Kazakhstan/26508/2020	Central Asia	Kazakhstan	Kazakhstan
+Kazakhstan/26565/2020	Central Asia	Kazakhstan	Kazakhstan
+Kazakhstan/33496/2020	Central Asia	Kazakhstan	Kazakhstan
+Kazakhstan/NCB-3/2020	Central Asia	Kazakhstan	Kazakhstan
+Kuwait/KU09/2020	Western Asia	Kuwait	Kuwait
+Kuwait/KU12/2020	Western Asia	Kuwait	Kuwait
+Kuwait/KU17/2020	Western Asia	Kuwait	Kuwait
+Kuwait/KU18/2020	Western Asia	Kuwait	Kuwait
+Latvia/018/2020	Northern Europe	Latvia	Latvia
+Latvia/021/2020	Northern Europe	Latvia	Latvia
+Latvia/024/2020	Northern Europe	Latvia	Latvia
+Latvia/030/2020	Northern Europe	Latvia	Latvia
+Latvia/035/2020	Northern Europe	Latvia	Latvia
+Latvia/039/2020	Northern Europe	Latvia	Latvia
+Latvia/042/2020	Northern Europe	Latvia	Latvia
+Latvia/043/2020	Northern Europe	Latvia	Latvia
+Latvia/054/2020	Northern Europe	Latvia	Latvia
+Latvia/070/2020	Northern Europe	Latvia	Latvia
+Latvia/078/2020	Northern Europe	Latvia	Latvia
+Latvia/08/2020	Northern Europe	Latvia	Latvia
+Latvia/091/2020	Northern Europe	Latvia	Latvia
+Latvia/092/2020	Northern Europe	Latvia	Latvia
+Latvia/094/2020	Northern Europe	Latvia	Latvia
+Latvia/099/2020	Northern Europe	Latvia	Latvia
+Latvia/test1/2020	Northern Europe	Latvia	Latvia
+Lebanon/S10_768/2020	Western Asia	Lebanon	Lebanon
+Lebanon/S8_767/2020	Western Asia	Lebanon	Lebanon
+Luxembourg/LNS0000001/2020	Western Europe	Luxembourg	Luxembourg
+Luxembourg/LNS0188413/2020	Western Europe	Luxembourg	Luxembourg
+Luxembourg/LNS0591129/2020	Western Europe	Luxembourg	Luxembourg
+Luxembourg/LNS1586475/2020	Western Europe	Luxembourg	Luxembourg
+Luxembourg/LNS1612000/2020	Western Europe	Luxembourg	Luxembourg
+Luxembourg/LNS3029697/2020	Western Europe	Luxembourg	Luxembourg
+Luxembourg/LNS3052946/2020	Western Europe	Luxembourg	Luxembourg
+Luxembourg/LNS3169999/2020	Western Europe	Luxembourg	Luxembourg
+Luxembourg/LNS5723911/2020	Western Europe	Luxembourg	Luxembourg
+Luxembourg/LNS6862754/2020	Western Europe	Luxembourg	Luxembourg
+Luxembourg/LNS7074589/2020	Western Europe	Luxembourg	Luxembourg
+Luxembourg/LNS7342327/2020	Western Europe	Luxembourg	Luxembourg
+Luxembourg/LNS7721101/2020	Western Europe	Luxembourg	Luxembourg
+Luxembourg/LNS8639502/2020	Western Europe	Luxembourg	Luxembourg
+Luxembourg/LNS8772889/2020	Western Europe	Luxembourg	Luxembourg
+Luxembourg/LNS9102463/2020	Western Europe	Luxembourg	Luxembourg
+Luxembourg/LNS9470500/2020	Western Europe	Luxembourg	Luxembourg
+Mexico/ALSR-1476/2020	Central America	Mexico	Mexico
+Mexico/ALSR-1698/2020	Central America	Mexico	Mexico
+Mexico/ALSR-1700/2020	Central America	Mexico	Mexico
+Mexico/ALSR-1702/2020	Central America	Mexico	Mexico
+Mexico/ALSR-1706/2020	Central America	Mexico	Mexico
+Mexico/ALSR-1707/2020	Central America	Mexico	Mexico
+Mexico/ALSR-1712/2020	Central America	Mexico	Mexico
+Mexico/ALSR-1714/2020	Central America	Mexico	Mexico
+Mexico/CDMX-INCMNSZ_01/2020	Central America	Mexico	Mexico
+Mexico/CDMX-INER_01/2020	Central America	Mexico	Mexico
+Mexico/CDMX-INER_03/2020	Central America	Mexico	Mexico
+Mexico/CDMX-INER_05/2020	Central America	Mexico	Mexico
+Mexico/Chiapas-InDRE_02/2020	Central America	Mexico	Mexico
+Mexico/EdoMex-InDRE_03/2020	Central America	Mexico	Mexico
+Mexico/InDRE_20/2020	Central America	Mexico	Mexico
+Mexico/InDRE_21/2020	Central America	Mexico	Mexico
+Mexico/InDRE_24/2020	Central America	Mexico	Mexico
+Mexico/InDRE_26/2020	Central America	Mexico	Mexico
+Mexico/InDRE_29/2020	Central America	Mexico	Mexico
+Mexico/InDRE_32/2020	Central America	Mexico	Mexico
+Mexico/InDRE_34/2020	Central America	Mexico	Mexico
+Mexico/Queretaro-InDRE-18/2020	Central America	Mexico	Mexico
+Morocco/6887/2020	Northern Africa	Morocco	Morocco
+Morocco/6891/2020	Northern Africa	Morocco	Morocco
+Morocco/6900/2020	Northern Africa	Morocco	Morocco
+Morocco/6906/2020	Northern Africa	Morocco	Morocco
+Morocco/AZ183/2020	Northern Africa	Morocco	Morocco
+Morocco/CA24/2020	Northern Africa	Morocco	Morocco
+Morocco/RA85/2020	Northern Africa	Morocco	Morocco
+Morocco/RMPS-01/2020	Northern Africa	Morocco	Morocco
+Morocco/RMPS-02/2020	Northern Africa	Morocco	Morocco
+Morocco/RMPS-12/2020	Northern Africa	Morocco	Morocco
+Morocco/RMPS-15/2020	Northern Africa	Morocco	Morocco
+Morocco/refstage1/2020	Northern Africa	Morocco	Morocco
+Nepal/61/2020	Eastern Asia	Nepal	China
+Netherlands/Friesland_29/2020	Western Europe	Netherlands	Netherlands
+Netherlands/Friesland_41/2020	Western Europe	Netherlands	Netherlands
+Netherlands/Friesland_42/2020	Western Europe	Netherlands	Netherlands
+Netherlands/Friesland_5/2020	Western Europe	Netherlands	Netherlands
+Netherlands/Gelderland_100/2020	Western Europe	Netherlands	Netherlands
+Netherlands/Gelderland_158/2020	Western Europe	Netherlands	Netherlands
+Netherlands/Gelderland_32/2020	Western Europe	Netherlands	Netherlands
+Netherlands/NA_105/2020	Western Europe	Netherlands	Netherlands
+Netherlands/NA_229/2020	Western Europe	Netherlands	Netherlands
+Netherlands/NA_396/2020	Western Europe	Netherlands	Netherlands
+Netherlands/NA_41/2020	Western Europe	Netherlands	Netherlands
+Netherlands/NA_479/2020	Western Europe	Netherlands	Netherlands
+Netherlands/NA_500/2020	Western Europe	Netherlands	Netherlands
+Netherlands/NA_613/2020	Western Europe	Netherlands	Netherlands
+Netherlands/NA_63/2020	Western Europe	Netherlands	Netherlands
+Netherlands/NA_642/2020	Western Europe	Netherlands	Netherlands
+Netherlands/NA_709/2020	Western Europe	Netherlands	Netherlands
+Netherlands/NA_79/2020	Western Europe	Netherlands	Netherlands
+Netherlands/NoordBrabant_26/2020	Western Europe	Netherlands	Netherlands
+Netherlands/NoordBrabant_6/2020	Western Europe	Netherlands	Netherlands
+Netherlands/NoordBrabant_96/2020	Western Europe	Netherlands	Netherlands
+Netherlands/Oss_1363500/2020	Western Europe	Netherlands	Netherlands
+Netherlands/Overijssel_35/2020	Western Europe	Netherlands	Netherlands
+Netherlands/Zeeland_19/2020	Western Europe	Netherlands	Netherlands
+Netherlands/ZuidHolland_151/2020	Western Europe	Netherlands	Netherlands
+NorthMacedonia/2499/2020	Southern Europe	North Macedonia	North Macedonia
+NorthMacedonia/2531/2020	Southern Europe	North Macedonia	North Macedonia
+NorthMacedonia/2851/2020	Southern Europe	North Macedonia	North Macedonia
+NorthMacedonia/2979/2020	Southern Europe	North Macedonia	North Macedonia
+NorthMacedonia/3017/2020	Southern Europe	North Macedonia	North Macedonia
+NorthMacedonia/3122/2020	Southern Europe	North Macedonia	North Macedonia
+NorthMacedonia/3861/2020	Southern Europe	North Macedonia	North Macedonia
+NorthMacedonia/6497/2020	Southern Europe	North Macedonia	North Macedonia
+NorthMacedonia/7229/2020	Southern Europe	North Macedonia	North Macedonia
+NorthMacedonia/7808/2020	Southern Europe	North Macedonia	North Macedonia
+NorthMacedonia/ChVir7903/2020	Southern Europe	North Macedonia	North Macedonia
+NorthMacedonia/ChVir7904/2020	Southern Europe	North Macedonia	North Macedonia
+NorthMacedonia/ChVir7911/2020	Southern Europe	North Macedonia	North Macedonia
+NorthMacedonia/ChVir7913/2020	Southern Europe	North Macedonia	North Macedonia
+NorthMacedonia/ChVir7915/2020	Southern Europe	North Macedonia	North Macedonia
+NorthMacedonia/ChVir7918/2020	Southern Europe	North Macedonia	North Macedonia
+Norway/1494/2020	Northern Europe	Norway	Norway
+Norway/1694/2020	Northern Europe	Norway	Norway
+Norway/1953/2020	Northern Europe	Norway	Norway
+Norway/2114/2020	Northern Europe	Norway	Norway
+Norway/2246/2020	Northern Europe	Norway	Norway
+Norway/2387/2020	Northern Europe	Norway	Norway
+Norway/2390/2020	Northern Europe	Norway	Norway
+Norway/2447/2020	Northern Europe	Norway	Norway
+Norway/2483/2020	Northern Europe	Norway	Norway
+Norway/2498/2020	Northern Europe	Norway	Norway
+Norway/2526/2020	Northern Europe	Norway	Norway
+Norway/2596/2020	Northern Europe	Norway	Norway
+Norway/2619/2020	Northern Europe	Norway	Norway
+Norway/2660/2020	Northern Europe	Norway	Norway
+Norway/2781/2020	Northern Europe	Norway	Norway
+Norway/2848/2020	Northern Europe	Norway	Norway
+Norway/2868/2020	Northern Europe	Norway	Norway
+Norway/2879/2020	Northern Europe	Norway	Norway
+Oman/205026358/2020	Western Asia	Oman	Oman
+Oman/205027556/2020	Western Asia	Oman	Oman
+Oman/205035988/2020	Western Asia	Oman	Oman
+Oman/205036454/2020	Western Asia	Oman	Oman
+Oman/205038906/2020	Western Asia	Oman	Oman
+Oman/205041335/2020	Western Asia	Oman	Oman
+Oman/205043071/2020	Western Asia	Oman	Oman
+Oman/24618/2020	Western Asia	Oman	Oman
+Oman/810962/2020	Western Asia	Oman	Oman
+Oman/B-7106/2020	Western Asia	Oman	Oman
+Oman/C-2673/2020	Western Asia	Oman	Oman
+Oman/C-6583/2020	Western Asia	Oman	Oman
+Oman/RESP-20-1189/2020	Western Asia	Oman	Oman
+Oman/RESP-20-1976/2020	Western Asia	Oman	Oman
+Oman/RESP-20-2282/2020	Western Asia	Oman	Oman
+Oman/RESP-20-6081/2020	Western Asia	Oman	Oman
+Oman/RESP-20-837/2020	Western Asia	Oman	Oman
+Pakistan/KHI1/2020	Southern Asia	Pakistan	Pakistan
+Pakistan/KPK-KUST-SJTU/2020	Southern Asia	Pakistan	Pakistan
+Pakistan/Manga-KPK/2020	Southern Asia	Pakistan	Pakistan
+Pakistan/NIH-45143/2020	Southern Asia	Pakistan	Pakistan
+Panama/328709/2020	Central America	Panama	Panama
+Panama/328719/2020	Central America	Panama	Panama
+Panama/329546/2020	Central America	Panama	Panama
+Panama/329682/2020	Central America	Panama	Panama
+Panama/329730/2020	Central America	Panama	Panama
+Panama/329844/2020	Central America	Panama	Panama
+Panama/330130/2020	Central America	Panama	Panama
+Panama/330558/2020	Central America	Panama	Panama
+Panama/331701/2020	Central America	Panama	Panama
+Panama/332298/2020	Central America	Panama	Panama
+Panama/332352/2020	Central America	Panama	Panama
+Panama/333685/2020	Central America	Panama	Panama
+Panama/333694/2020	Central America	Panama	Panama
+Panama/334038/2020	Central America	Panama	Panama
+Panama/334389/2020	Central America	Panama	Panama
+Panama/334598/2020	Central America	Panama	Panama
+Panama/335382/2020	Central America	Panama	Panama
+Panama/335967/2020	Central America	Panama	Panama
+Panama/336008/2020	Central America	Panama	Panama
+Panama/336247/2020	Central America	Panama	Panama
+Panama/336897/2020	Central America	Panama	Panama
+Panama/337097/2020	Central America	Panama	Panama
+Panama/337467/2020	Central America	Panama	Panama
+Panama/338681/2020	Central America	Panama	Panama
+Panama/339467/2020	Central America	Panama	Panama
+Panama/340239/2020	Central America	Panama	Panama
+Panama/341259/2020	Central America	Panama	Panama
+Peru/01-2/2020	South America	Peru	Peru
+Peru/01/2020	South America	Peru	Peru
+Peru/010/2020	South America	Peru	Peru
+Peru/INS-002/2020	South America	Peru	Peru
+Peru/INS-003/2020	South America	Peru	Peru
+Peru/INS-004/2020	South America	Peru	Peru
+Peru/INS-006/2020	South America	Peru	Peru
+Peru/INS-008/2020	South America	Peru	Peru
+Peru/INS-009/2020	South America	Peru	Peru
+Peru/INS-011/2020	South America	Peru	Peru
+Peru/INS-012/2020	South America	Peru	Peru
+Peru/INS-013/2020	South America	Peru	Peru
+Peru/INS-014/2020	South America	Peru	Peru
+Peru/INS-015/2020	South America	Peru	Peru
+Peru/INS-016/2020	South America	Peru	Peru
+Peru/INS-018/2020	South America	Peru	Peru
+Peru/INS-019/2020	South America	Peru	Peru
+Peru/INS-020/2020	South America	Peru	Peru
+Peru/INS-021/2020	South America	Peru	Peru
+Peru/INS-022/2020	South America	Peru	Peru
+Peru/INS-024/2020	South America	Peru	Peru
+Peru/INS-025/2020	South America	Peru	Peru
+Peru/INS-026/2020	South America	Peru	Peru
+Peru/INS-028/2020	South America	Peru	Peru
+Peru/INS-029/2020	South America	Peru	Peru
+Peru/INS-030/2020	South America	Peru	Peru
+Peru/INS-031/2020	South America	Peru	Peru
+Peru/INS-033/2020	South America	Peru	Peru
+Peru/INS-034/2020	South America	Peru	Peru
+Peru/INS-035/2020	South America	Peru	Peru
+Peru/INS-038/2020	South America	Peru	Peru
+Peru/INS-039/2020	South America	Peru	Peru
+Peru/INS-040/2020	South America	Peru	Peru
+Peru/INS-041/2020	South America	Peru	Peru
+Peru/INS-042/2020	South America	Peru	Peru
+Peru/INS-044/2020	South America	Peru	Peru
+Peru/INS-058/2020	South America	Peru	Peru
+Peru/INS-079/2020	South America	Peru	Peru
+Peru/INS-080/2020	South America	Peru	Peru
+Peru/INS-081/2020	South America	Peru	Peru
+Peru/INS-082/2020	South America	Peru	Peru
+Philippines/PGC02/2020	Southeastern Asia	Philippines	Philippines
+Philippines/PH-RITM-0009/2020	Southeastern Asia	Philippines	Philippines
+Philippines/PH-RITM-0015/2020	Southeastern Asia	Philippines	Philippines
+Philippines/PH-RITM-0020/2020	Southeastern Asia	Philippines	Philippines
+Philippines/RITM-03/2020	Southeastern Asia	Philippines	Philippines
+Philippines/RITM-04/2020	Southeastern Asia	Philippines	Philippines
+Pingxiang/JX5/2020	Eastern Asia	China	China
+Poland/1105644/2020	Eastern Europe	Poland	Poland
+Poland/1109201/2020	Eastern Europe	Poland	Poland
+Poland/1134056/2020	Eastern Europe	Poland	Poland
+Poland/1140683/2020	Eastern Europe	Poland	Poland
+Poland/1157821/2020	Eastern Europe	Poland	Poland
+Poland/IHG_PAS_1_69/2020	Eastern Europe	Poland	Poland
+Poland/IHG_PAS_3_57/2020	Eastern Europe	Poland	Poland
+Poland/IHG_PAS_4_67/2020	Eastern Europe	Poland	Poland
+Poland/PL_P1/2020	Eastern Europe	Poland	Poland
+Poland/PL_P32/2020	Eastern Europe	Poland	Poland
+Poland/PL_P45/2020	Eastern Europe	Poland	Poland
+Poland/PL_P5/2020	Eastern Europe	Poland	Poland
+Poland/Pom6/2020	Eastern Europe	Poland	Poland
+Poland/Pom7/2020	Eastern Europe	Poland	Poland
+Portugal/CV63/2020	Southern Europe	Portugal	Portugal
+Portugal/IGC3667/2020	Southern Europe	Portugal	Portugal
+Portugal/IGC4228/2020	Southern Europe	Portugal	Portugal
+Portugal/PT0164/2020	Southern Europe	Portugal	Portugal
+Portugal/PT0225/2020	Southern Europe	Portugal	Portugal
+Portugal/PT0396a/2020	Southern Europe	Portugal	Portugal
+Portugal/PT0506/2020	Southern Europe	Portugal	Portugal
+Portugal/PT0515/2020	Southern Europe	Portugal	Portugal
+Portugal/PT0540/2020	Southern Europe	Portugal	Portugal
+Portugal/PT0581/2020	Southern Europe	Portugal	Portugal
+Portugal/PT0609/2020	Southern Europe	Portugal	Portugal
+Portugal/PT0772/2020	Southern Europe	Portugal	Portugal
+Portugal/PT0870/2020	Southern Europe	Portugal	Portugal
+Portugal/PT0911/2020	Southern Europe	Portugal	Portugal
+Portugal/PT1114/2020	Southern Europe	Portugal	Portugal
+Portugal/PT1137/2020	Southern Europe	Portugal	Portugal
+Portugal/PT1157/2020	Southern Europe	Portugal	Portugal
+Portugal/PT1231/2020	Southern Europe	Portugal	Portugal
+Portugal/PT1522/2020	Southern Europe	Portugal	Portugal
+Portugal/R1172/2020	Southern Europe	Portugal	Portugal
+Portugal/R1320/2020	Southern Europe	Portugal	Portugal
+Qatar/QA02/2020	Western Asia	Qatar	Qatar
+Qatar/QA08/2020	Western Asia	Qatar	Qatar
+Qatar/QA21/2020	Western Asia	Qatar	Qatar
+Qatar/QA23/2020	Western Asia	Qatar	Qatar
+Romania/284168/2020	Eastern Europe	Romania	Romania
+Romania/Bucuresti-12546/2020	Eastern Europe	Romania	Romania
+Romania/Bucuresti-293034/2020	Eastern Europe	Romania	Romania
+Romania/Bucuresti-4105/2020	Eastern Europe	Romania	Romania
+Romania/Mioveni-24095/2020	Eastern Europe	Romania	Romania
+Romania/ROSV_12587/2020	Eastern Europe	Romania	Romania
+Romania/ROSV_12618/2020	Eastern Europe	Romania	Romania
+Romania/ROSV_13109/2020	Eastern Europe	Romania	Romania
+Romania/ROSV_2113/2020	Eastern Europe	Romania	Romania
+Romania/ROSV_2874/2020	Eastern Europe	Romania	Romania
+Romania/ROSV_4659/2020	Eastern Europe	Romania	Romania
+Romania/ROSV_5000/2020	Eastern Europe	Romania	Romania
+Romania/ROSV_5230/2020	Eastern Europe	Romania	Romania
+Romania/ROSV_9826/2020	Eastern Europe	Romania	Romania
+Romania/Suceava-31646/2020	Eastern Europe	Romania	Romania
+Romania/Suceava-5722/2020	Eastern Europe	Romania	Romania
+Russia/CRIE164298/2020	Eastern Europe	Russia	Russia
+Russia/Novosibirsk-RII27320S/2020	Eastern Europe	Russia	Russia
+Russia/Samara-73403/2020	Eastern Europe	Russia	Russia
+Russia/StPetersburg-64304/2020	Eastern Europe	Russia	Russia
+Russia/StPetersburg-RII11149S/2020	Eastern Europe	Russia	Russia
+Russia/StPetersburg-RII15673S/2020	Eastern Europe	Russia	Russia
+Russia/StPetersburg-RII15950V/2020	Eastern Europe	Russia	Russia
+Russia/StPetersburg-RII17941S/2020	Eastern Europe	Russia	Russia
+Russia/StPetersburg-RII21538S/2020	Eastern Europe	Russia	Russia
+Russia/StPetersburg-RII21797S/2020	Eastern Europe	Russia	Russia
+Russia/StPetersburg-RII4723S/2020	Eastern Europe	Russia	Russia
+Russia/StPetersburg-RII6060S/2020	Eastern Europe	Russia	Russia
+Russia/StPetersburg-RII7321V/2020	Eastern Europe	Russia	Russia
+Russia/Yakutia-83301/2020	Eastern Europe	Russia	Russia
+SaudiArabia/477/2020	Western Asia	Saudi Arabia	Saudi Arabia
+SaudiArabia/518/2020	Western Asia	Saudi Arabia	Saudi Arabia
+SaudiArabia/596/2020	Western Asia	Saudi Arabia	Saudi Arabia
+SaudiArabia/656/2020	Western Asia	Saudi Arabia	Saudi Arabia
+SaudiArabia/86650/2020	Western Asia	Saudi Arabia	Saudi Arabia
+SaudiArabia/KAIMRC08/2020	Western Asia	Saudi Arabia	Saudi Arabia
+SaudiArabia/KAUST-JEDDAH1009/2020	Western Asia	Saudi Arabia	Saudi Arabia
+SaudiArabia/KAUST-JEDDAH1031/2020	Western Asia	Saudi Arabia	Saudi Arabia
+SaudiArabia/KAUST-JEDDAH573/2020	Western Asia	Saudi Arabia	Saudi Arabia
+SaudiArabia/KAUST-JEDDAH590/2020	Western Asia	Saudi Arabia	Saudi Arabia
+SaudiArabia/KAUST-JEDDAH723/2020	Western Asia	Saudi Arabia	Saudi Arabia
+SaudiArabia/KAUST-JEDDAH841/2020	Western Asia	Saudi Arabia	Saudi Arabia
+SaudiArabia/KAUST-MADINAH1047/2020	Western Asia	Saudi Arabia	Saudi Arabia
+SaudiArabia/KAUST-MADINAH1111/2020	Western Asia	Saudi Arabia	Saudi Arabia
+SaudiArabia/KAUST-MADINAH519/2020	Western Asia	Saudi Arabia	Saudi Arabia
+SaudiArabia/KAUST-MADINAH606/2020	Western Asia	Saudi Arabia	Saudi Arabia
+SaudiArabia/KAUST-MADINAH959/2020	Western Asia	Saudi Arabia	Saudi Arabia
+SaudiArabia/KAUST-MAKKAH290/2020	Western Asia	Saudi Arabia	Saudi Arabia
+SaudiArabia/KAUST-Madinah211/2020	Western Asia	Saudi Arabia	Saudi Arabia
+SaudiArabia/KAUST-Madinah44/2020	Western Asia	Saudi Arabia	Saudi Arabia
+SaudiArabia/KAUST-Makkah09/2020	Western Asia	Saudi Arabia	Saudi Arabia
+Scotland/CVR1465/2020	Northern Europe	United Kingdom	United Kingdom
+Scotland/CVR2526/2020	Northern Europe	United Kingdom	United Kingdom
+Scotland/CVR3624/2020	Northern Europe	United Kingdom	United Kingdom
+Senegal/003/2020	Western Africa	Senegal	Senegal
+Senegal/026/2020	Western Africa	Senegal	Senegal
+Senegal/1351/2020	Western Africa	Senegal	Senegal
+Senegal/136/2020	Western Africa	Senegal	Senegal
+Senegal/1938/2020	Western Africa	Senegal	Senegal
+Senegal/2840/2020	Western Africa	Senegal	Senegal
+Senegal/45557/2020	Western Africa	Senegal	Senegal
+Senegal/52907/2020	Western Africa	Senegal	Senegal
+Senegal/5770/2020	Western Africa	Senegal	Senegal
+Senegal/610/2020	Western Africa	Senegal	Senegal
+Senegal/64033/2020	Western Africa	Senegal	Senegal
+Senegal/68458/2020	Western Africa	Senegal	Senegal
+Senegal/83403/2020	Western Africa	Senegal	Senegal
+Senegal/9821/2020	Western Africa	Senegal	Senegal
+Serbia/CA3002-04/2020	Southern Europe	Serbia	Serbia
+Serbia/CA3089-04/2020	Southern Europe	Serbia	Serbia
+Serbia/KV26-04/2020	Southern Europe	Serbia	Serbia
+Serbia/KV26/2020	Southern Europe	Serbia	Serbia
+Serbia/KV52-12-05/2020	Southern Europe	Serbia	Serbia
+Serbia/KV57-12-07/2020	Southern Europe	Serbia	Serbia
+Serbia/KV65-16-07/2020	Southern Europe	Serbia	Serbia
+Serbia/NS838-04/2020	Southern Europe	Serbia	Serbia
+Serbia/UE06-28-04/2020	Southern Europe	Serbia	Serbia
+Serbia/UE16-22-04/2020	Southern Europe	Serbia	Serbia
+Shenzhen/HKU-SZ-002/2020	Eastern Asia	China	China
+Shenzhen/HKU-SZ-005/2020	Eastern Asia	China	China
+Sichuan/IVDC-SC-001/2020	Eastern Asia	China	China
+Slovenia/12304/2020	Southern Europe	Slovenia	Slovenia
+Slovenia/4584/2020	Southern Europe	Slovenia	Slovenia
+Slovenia/808/2020	Southern Europe	Slovenia	Slovenia
+Slovenia/MB0329/2020	Southern Europe	Slovenia	Slovenia
+Slovenia/MB0419/2020	Southern Europe	Slovenia	Slovenia
+SouthAfrica/KRISP-0074/2020	Southern Africa	South Africa	South Africa
+SouthAfrica/KRISP-0135/2020	Southern Africa	South Africa	South Africa
+SouthAfrica/KRISP-0156/2020	Southern Africa	South Africa	South Africa
+SouthAfrica/KRISP-0165/2020	Southern Africa	South Africa	South Africa
+SouthAfrica/KRISP-0166/2020	Southern Africa	South Africa	South Africa
+SouthAfrica/KRISP-0206/2020	Southern Africa	South Africa	South Africa
+SouthAfrica/KRISP-0293/2020	Southern Africa	South Africa	South Africa
+SouthAfrica/KRISP-0336/2020	Southern Africa	South Africa	South Africa
+SouthAfrica/KRISP-0551/2020	Southern Africa	South Africa	South Africa
+SouthAfrica/KRISP-108/2020	Southern Africa	South Africa	South Africa
+SouthAfrica/KRISP-K000609/2020	Southern Africa	South Africa	South Africa
+SouthAfrica/KRISP-K001043/2020	Southern Africa	South Africa	South Africa
+SouthAfrica/KRISP-K001051/2020	Southern Africa	South Africa	South Africa
+SouthAfrica/KRISP-K001406/2020	Southern Africa	South Africa	South Africa
+SouthAfrica/KRISP-K002318/2020	Southern Africa	South Africa	South Africa
+SouthAfrica/KRISP-K002370/2020	Southern Africa	South Africa	South Africa
+SouthAfrica/KRISP-K002421/2020	Southern Africa	South Africa	South Africa
+SouthAfrica/LR00006/2020	Southern Africa	South Africa	South Africa
+SouthAfrica/R02606/2020	Southern Africa	South Africa	South Africa
+SouthAfrica/R02827/2020	Southern Africa	South Africa	South Africa
+SouthAfrica/R05475/2020	Southern Africa	South Africa	South Africa
+SouthAfrica/R06812/2020	Southern Africa	South Africa	South Africa
+SouthAfrica/R09085/2020	Southern Africa	South Africa	South Africa
+SouthAfrica/R10139/2020	Southern Africa	South Africa	South Africa
+SouthAfrica/R10720/2020	Southern Africa	South Africa	South Africa
+SouthAfrica/Tygerberg_13/2020	Southern Africa	South Africa	South Africa
+SouthAfrica/Tygerberg_29/2020	Southern Africa	South Africa	South Africa
+SouthKorea/A6/2020	Eastern Asia	South Korea	South Korea
+SouthKorea/A7/2020	Eastern Asia	South Korea	South Korea
+SouthKorea/KCDC03/2020	Eastern Asia	South Korea	South Korea
+SouthKorea/KCDC05/2020	Eastern Asia	South Korea	South Korea
+SouthKorea/KCDC2005/2020	Eastern Asia	South Korea	South Korea
+SouthKorea/KCDC2014/2020	Eastern Asia	South Korea	South Korea
+SouthKorea/KCDC2034/2020	Eastern Asia	South Korea	South Korea
+SouthKorea/KCDC2098/2020	Eastern Asia	South Korea	South Korea
+SouthKorea/KCDC2116/2020	Eastern Asia	South Korea	South Korea
+SouthKorea/KCDC2121/2020	Eastern Asia	South Korea	South Korea
+SouthKorea/KCDC2157/2020	Eastern Asia	South Korea	South Korea
+SouthKorea/KCDC2179/2020	Eastern Asia	South Korea	South Korea
+SouthKorea/KCDC2214/2020	Eastern Asia	South Korea	South Korea
+SouthKorea/KCDC2258/2020	Eastern Asia	South Korea	South Korea
+SouthKorea/KCDC2291/2020	Eastern Asia	South Korea	South Korea
+SouthKorea/KCDC2317/2020	Eastern Asia	South Korea	South Korea
+SouthKorea/KCDC2409/2020	Eastern Asia	South Korea	South Korea
+SouthKorea/KCDC2479/2020	Eastern Asia	South Korea	South Korea
+SouthKorea/KCDC2529/2020	Eastern Asia	South Korea	South Korea
+SouthKorea/KCDC2560/2020	Eastern Asia	South Korea	South Korea
+SouthKorea/KCDC2593/2020	Eastern Asia	South Korea	South Korea
+SouthKorea/KCDC2635/2020	Eastern Asia	South Korea	South Korea
+SouthKorea/KCDC2652/2020	Eastern Asia	South Korea	South Korea
+SouthKorea/S3/2020	Eastern Asia	South Korea	South Korea
+Spain/ACoruna_013/2020	Southern Europe	Spain	Spain
+Spain/AN-001271/2020	Southern Europe	Spain	Spain
+Spain/AN-001322/2020	Southern Europe	Spain	Spain
+Spain/AN-006098/2020	Southern Europe	Spain	Spain
+Spain/AN-006108/2020	Southern Europe	Spain	Spain
+Spain/AN-006116/2020	Southern Europe	Spain	Spain
+Spain/AN-006130/2020	Southern Europe	Spain	Spain
+Spain/AR-005025/2020	Southern Europe	Spain	Spain
+Spain/AR-005066/2020	Southern Europe	Spain	Spain
+Spain/Albacete-COV003775/2020	Southern Europe	Spain	Spain
+Spain/Albacete-COV003777/2020	Southern Europe	Spain	Spain
+Spain/Albacete-COV003783/2020	Southern Europe	Spain	Spain
+Spain/Barcelona_VH1407/2020	Southern Europe	Spain	Spain
+Spain/Barcelona_VH1438/2020	Southern Europe	Spain	Spain
+Spain/CM-003928/2020	Southern Europe	Spain	Spain
+Spain/Donostia-San_Sebastian2084/2020	Southern Europe	Spain	Spain
+Spain/Donostia-San_Sebastian2095/2020	Southern Europe	Spain	Spain
+Spain/Donostia-San_Sebastian2135/2020	Southern Europe	Spain	Spain
+Spain/Donostia-San_Sebastian2165/2020	Southern Europe	Spain	Spain
+Spain/Donostia-San_Sebastian_COV003217/2020	Southern Europe	Spain	Spain
+Spain/EX-005000/2020	Southern Europe	Spain	Spain
+Spain/EX-005006/2020	Southern Europe	Spain	Spain
+Spain/EX-005017/2020	Southern Europe	Spain	Spain
+Spain/Granada-COV002986/2020	Southern Europe	Spain	Spain
+Spain/Hellin-COV003869/2020	Southern Europe	Spain	Spain
+Spain/MD-003707/2020	Southern Europe	Spain	Spain
+Spain/MD-004967/2020	Southern Europe	Spain	Spain
+Spain/MD-004983/2020	Southern Europe	Spain	Spain
+Spain/MD-005348/2020	Southern Europe	Spain	Spain
+Spain/NC-001373/2020	Southern Europe	Spain	Spain
+Spain/PV-000672/2020	Southern Europe	Spain	Spain
+Spain/PV-000717/2020	Southern Europe	Spain	Spain
+Spain/PV-001397/2020	Southern Europe	Spain	Spain
+Spain/PV-001594/2020	Southern Europe	Spain	Spain
+Spain/PV-005153/2020	Southern Europe	Spain	Spain
+Spain/Palma2547/2020	Southern Europe	Spain	Spain
+Spain/Teruel2421/2020	Southern Europe	Spain	Spain
+Spain/Valencia144/2020	Southern Europe	Spain	Spain
+Spain/Valencia259/2020	Southern Europe	Spain	Spain
+Spain/Valencia266/2020	Southern Europe	Spain	Spain
+Spain/Valencia470/2020	Southern Europe	Spain	Spain
+Spain/Valencia82/2020	Southern Europe	Spain	Spain
+Spain/Zaragoza2416/2020	Southern Europe	Spain	Spain
+Spain/Zaragoza2476/2020	Southern Europe	Spain	Spain
+Sweden/01/2020	Northern Europe	Sweden	Sweden
+Sweden/20-02114/2020	Northern Europe	Sweden	Sweden
+Sweden/20-04736/2020	Northern Europe	Sweden	Sweden
+Sweden/20-06918/2020	Northern Europe	Sweden	Sweden
+Sweden/20-07298/2020	Northern Europe	Sweden	Sweden
+Sweden/20-07847/2020	Northern Europe	Sweden	Sweden
+Sweden/20-08088/2020	Northern Europe	Sweden	Sweden
+Sweden/20-08093/2020	Northern Europe	Sweden	Sweden
+Sweden/20-08102/2020	Northern Europe	Sweden	Sweden
+Sweden/20-08120/2020	Northern Europe	Sweden	Sweden
+Sweden/20-08154/2020	Northern Europe	Sweden	Sweden
+Sweden/20-08167/2020	Northern Europe	Sweden	Sweden
+Sweden/20-08332/2020	Northern Europe	Sweden	Sweden
+Sweden/20-08357/2020	Northern Europe	Sweden	Sweden
+Sweden/20-08678/2020	Northern Europe	Sweden	Sweden
+Sweden/20-08686/2020	Northern Europe	Sweden	Sweden
+Sweden/20-08842/2020	Northern Europe	Sweden	Sweden
+Sweden/20-08906/2020	Northern Europe	Sweden	Sweden
+Sweden/20-14178/2020	Northern Europe	Sweden	Sweden
+Sweden/20-14318/2020	Northern Europe	Sweden	Sweden
+Sweden/20-14985/2020	Northern Europe	Sweden	Sweden
+Sweden/20-50089/2020	Northern Europe	Sweden	Sweden
+Sweden/20-50107/2020	Northern Europe	Sweden	Sweden
+Sweden/20-50176/2020	Northern Europe	Sweden	Sweden
+Sweden/20-50181/2020	Northern Europe	Sweden	Sweden
+Sweden/20-50194/2020	Northern Europe	Sweden	Sweden
+Sweden/20-50270/2020	Northern Europe	Sweden	Sweden
+Sweden/20-50370/2020	Northern Europe	Sweden	Sweden
+Sweden/20-50529/2020	Northern Europe	Sweden	Sweden
+Sweden/20-50934/2020	Northern Europe	Sweden	Sweden
+Sweden/20-51426/2020	Northern Europe	Sweden	Sweden
+Sweden/20-51710/2020	Northern Europe	Sweden	Sweden
+Sweden/20-51780/2020	Northern Europe	Sweden	Sweden
+Sweden/20-51988/2020	Northern Europe	Sweden	Sweden
+Sweden/20-52000/2020	Northern Europe	Sweden	Sweden
+Sweden/20-52071/2020	Northern Europe	Sweden	Sweden
+Switzerland/100007/2020	Western Europe	Switzerland	Switzerland
+Switzerland/100084/2020	Western Europe	Switzerland	Switzerland
+Switzerland/100130/2020	Western Europe	Switzerland	Switzerland
+Switzerland/100814/2020	Western Europe	Switzerland	Switzerland
+Switzerland/101193/2020	Western Europe	Switzerland	Switzerland
+Switzerland/110069_165_D4/2020	Western Europe	Switzerland	Switzerland
+Switzerland/110504/2020	Western Europe	Switzerland	Switzerland
+Switzerland/120009/2020	Western Europe	Switzerland	Switzerland
+Switzerland/130012/2020	Western Europe	Switzerland	Switzerland
+Switzerland/140001/2020	Western Europe	Switzerland	Switzerland
+Switzerland/140018/2020	Western Europe	Switzerland	Switzerland
+Switzerland/140032/2020	Western Europe	Switzerland	Switzerland
+Switzerland/140064/2020	Western Europe	Switzerland	Switzerland
+Switzerland/140075/2020	Western Europe	Switzerland	Switzerland
+Switzerland/150000_406_D03_plus/2020	Western Europe	Switzerland	Switzerland
+Switzerland/150036_428_D09_plus/2020	Western Europe	Switzerland	Switzerland
+Switzerland/160017_448_G09/2020	Western Europe	Switzerland	Switzerland
+Switzerland/170010_461_F02/2020	Western Europe	Switzerland	Switzerland
+Switzerland/180043_512_C05/2020	Western Europe	Switzerland	Switzerland
+Switzerland/200009_585_G11/2020	Western Europe	Switzerland	Switzerland
+Switzerland/200013_588_G02/2020	Western Europe	Switzerland	Switzerland
+Switzerland/210076_664_B04/2020	Western Europe	Switzerland	Switzerland
+Switzerland/220079_710_B07/2020	Western Europe	Switzerland	Switzerland
+Switzerland/BL0902/2020	Western Europe	Switzerland	Switzerland
+Thailand/Nonthaburi_68/2020	Southeastern Asia	Thailand	Thailand
+Turkey/ACUTG-4/2020	Western Asia	Turkey	Turkey
+Turkey/BUU434/2020	Western Asia	Turkey	Turkey
+Turkey/GLAB-CoV055/2020	Western Asia	Turkey	Turkey
+Turkey/HSGM-510/2020	Western Asia	Turkey	Turkey
+Turkey/HSGM-8003/2020	Western Asia	Turkey	Turkey
+Turkey/IMU-SP-04/2020	Western Asia	Turkey	Turkey
+Turkey/KOC-IST-B91/2020	Western Asia	Turkey	Turkey
+Turkey/KOU-MG/2020	Western Asia	Turkey	Turkey
+Turkey/KU-007/2020	Western Asia	Turkey	Turkey
+Turkey/KU-008/2020	Western Asia	Turkey	Turkey
+Turkey/KU-019/2020	Western Asia	Turkey	Turkey
+Turkey/KU-028/2020	Western Asia	Turkey	Turkey
+Turkey/KU-035/2020	Western Asia	Turkey	Turkey
+Turkey/KU-044/2020	Western Asia	Turkey	Turkey
+USA/CA-ALSR-1587/2020	North America	USA	USA-West
+USA/CA-CSMC137/2020	North America	USA	USA-West
+USA/CA-CZB-2211/2020	North America	USA	USA-West
+USA/CA-CZB-2458/2020	North America	USA	USA-West
+USA/CA-SCCPHD-UC106/2020	North America	USA	USA-West
+USA/FL-BPHL-0236/2020	North America	USA	USA-South
+USA/FL-BPHL-0238/2020	North America	USA	USA-South
+USA/FL-BPHL-0589/2020	North America	USA	USA-South
+USA/IL-UW-860/2020	North America	USA	USA-Midwest
+USA/MD-HP00155/2020	North America	USA	USA-South
+USA/MD-MDH-0031/2020	North America	USA	USA-South
+USA/MI-MDHHS-SC21481/2020	North America	USA	USA-Midwest
+USA/MI-MDHHS-SC21585/2020	North America	USA	USA-Midwest
+USA/MI-MDHHS-SC21637/2020	North America	USA	USA-Midwest
+USA/NY-NYUMC116/2020	New York City	USA	New York City
+USA/NY-NYUMC12/2020	New York City	USA	New York City
+USA/NY-NYUMC122/2020	New York City	USA	New York City
+USA/NY-NYUMC147/2020	New York City	USA	New York City
+USA/NY-NYUMC149/2020	New York City	USA	New York City
+USA/NY-NYUMC154/2020	New York City	USA	New York City
+USA/NY-NYUMC165/2020	New York City	USA	New York City
+USA/NY-NYUMC168/2020	New York City	USA	New York City
+USA/NY-NYUMC173/2020	New York City	USA	New York City
+USA/NY-NYUMC178/2020	New York City	USA	New York City
+USA/NY-NYUMC182/2020	New York City	USA	New York City
+USA/NY-NYUMC188/2020	New York City	USA	New York City
+USA/NY-NYUMC192/2020	New York City	USA	New York City
+USA/NY-NYUMC210/2020	New York City	USA	New York City
+USA/NY-NYUMC217/2020	New York City	USA	New York City
+USA/NY-NYUMC237/2020	New York City	USA	New York City
+USA/NY-NYUMC238/2020	New York City	USA	New York City
+USA/NY-NYUMC240/2020	New York City	USA	New York City
+USA/NY-NYUMC242/2020	New York City	USA	New York City
+USA/NY-NYUMC245/2020	New York City	USA	New York City
+USA/NY-NYUMC260/2020	New York City	USA	New York City
+USA/NY-NYUMC261/2020	New York City	USA	New York City
+USA/NY-NYUMC269/2020	New York City	USA	New York City
+USA/NY-NYUMC29/2020	New York City	USA	New York City
+USA/NY-NYUMC291/2020	New York City	USA	New York City
+USA/NY-NYUMC293/2020	New York City	USA	New York City
+USA/NY-NYUMC306/2020	New York City	USA	New York City
+USA/NY-NYUMC309/2020	New York City	USA	New York City
+USA/NY-NYUMC310/2020	New York City	USA	New York City
+USA/NY-NYUMC315/2020	New York City	USA	New York City
+USA/NY-NYUMC330/2020	New York City	USA	New York City
+USA/NY-NYUMC331/2020	New York City	USA	New York City
+USA/NY-NYUMC337/2020	New York City	USA	New York City
+USA/NY-NYUMC352/2020	New York City	USA	New York City
+USA/NY-NYUMC355/2020	New York City	USA	New York City
+USA/NY-NYUMC360/2020	New York City	USA	New York City
+USA/NY-NYUMC37/2020	New York City	USA	New York City
+USA/NY-NYUMC399/2020	New York City	USA	New York City
+USA/NY-NYUMC42/2020	New York City	USA	New York City
+USA/NY-NYUMC432/2020	New York City	USA	New York City
+USA/NY-NYUMC434/2020	New York City	USA	New York City
+USA/NY-NYUMC439/2020	New York City	USA	New York City
+USA/NY-NYUMC457/2020	New York City	USA	New York City
+USA/NY-NYUMC459/2020	New York City	USA	New York City
+USA/NY-NYUMC46/2020	New York City	USA	New York City
+USA/NY-NYUMC494/2020	New York City	USA	New York City
+USA/NY-NYUMC495/2020	New York City	USA	New York City
+USA/NY-NYUMC508/2020	New York City	USA	New York City
+USA/NY-NYUMC514/2020	New York City	USA	New York City
+USA/NY-NYUMC529/2020	New York City	USA	New York City
+USA/NY-NYUMC541/2020	New York City	USA	New York City
+USA/NY-NYUMC542/2020	New York City	USA	New York City
+USA/NY-NYUMC548/2020	New York City	USA	New York City
+USA/NY-NYUMC550/2020	New York City	USA	New York City
+USA/NY-NYUMC58/2020	New York City	USA	New York City
+USA/NY-NYUMC606/2020	New York City	USA	New York City
+USA/NY-NYUMC610/2020	New York City	USA	New York City
+USA/NY-NYUMC63/2020	New York City	USA	New York City
+USA/NY-NYUMC64/2020	New York City	USA	New York City
+USA/NY-NYUMC656/2020	New York City	USA	New York City
+USA/NY-NYUMC664/2020	New York City	USA	New York City
+USA/NY-NYUMC680/2020	New York City	USA	New York City
+USA/NY-NYUMC688/2020	New York City	USA	New York City
+USA/NY-NYUMC700/2020	New York City	USA	New York City
+USA/NY-NYUMC701/2020	New York City	USA	New York City
+USA/NY-NYUMC710/2020	New York City	USA	New York City
+USA/NY-NYUMC721/2020	New York City	USA	New York City
+USA/NY-NYUMC748/2020	New York City	USA	New York City
+USA/NY-NYUMC764/2020	New York City	USA	New York City
+USA/NY-NYUMC770/2020	New York City	USA	New York City
+USA/NY-NYUMC778/2020	New York City	USA	New York City
+USA/NY-NYUMC779/2020	New York City	USA	New York City
+USA/NY-NYUMC780/2020	New York City	USA	New York City
+USA/NY-NYUMC781/2020	New York City	USA	New York City
+USA/NY-NYUMC796/2020	New York City	USA	New York City
+USA/NY-NYUMC8/2020	New York City	USA	New York City
+USA/NY-NYUMC81/2020	New York City	USA	New York City
+USA/NY-NYUMC812/2020	New York City	USA	New York City
+USA/NY-NYUMC889/2020	New York City	USA	New York City
+USA/NY-NYUMC891/2020	New York City	USA	New York City
+USA/NY-NYUMC895/2020	New York City	USA	New York City
+USA/NY-NYUMC902/2020	New York City	USA	New York City
+USA/NY-NYUMC906/2020	New York City	USA	New York City
+USA/NY-NYUMC907/2020	New York City	USA	New York City
+USA/NY-NYUMC912/2020	New York City	USA	New York City
+USA/NY-NYUMC920/2020	New York City	USA	New York City
+USA/NY-NYUMC926/2020	New York City	USA	New York City
+USA/NY-PV08122/2020	New York City	USA	New York City
+USA/NY-PV08133/2020	New York City	USA	New York City
+USA/NY-PV08146/2020	New York City	USA	New York City
+USA/NY-PV08148/2020	New York City	USA	New York City
+USA/NY-PV08410/2020	New York City	USA	New York City
+USA/NY-PV08414/2020	New York City	USA	New York City
+USA/NY-PV08468/2020	New York City	USA	New York City
+USA/NY-PV09021/2020	New York City	USA	New York City
+USA/NY-PV09025/2020	New York City	USA	New York City
+USA/NY-PV09061/2020	New York City	USA	New York City
+USA/NY-PV09067/2020	New York City	USA	New York City
+USA/NY-PV09071/2020	New York City	USA	New York City
+USA/NY-PV09073/2020	New York City	USA	New York City
+USA/NY-PV09087/2020	New York City	USA	New York City
+USA/NY-PV09120/2020	New York City	USA	New York City
+USA/NY-PV09128/2020	New York City	USA	New York City
+USA/NY-PV09139/2020	New York City	USA	New York City
+USA/NY-PV09164/2020	New York City	USA	New York City
+USA/NY-PV09176/2020	New York City	USA	New York City
+USA/NY-PV09193/2020	New York City	USA	New York City
+USA/NY-PV09308/2020	New York City	USA	New York City
+USA/NY-PV09323/2020	New York City	USA	New York City
+USA/NY-PV09377/2020	New York City	USA	New York City
+USA/NY-PV09380/2020	New York City	USA	New York City
+USA/NY-PV09393/2020	New York City	USA	New York City
+USA/NY-PV09394/2020	New York City	USA	New York City
+USA/NY-PV09398/2020	New York City	USA	New York City
+USA/NY-PV09400/2020	New York City	USA	New York City
+USA/NY-PV09410/2020	New York City	USA	New York City
+USA/NY-PV09416/2020	New York City	USA	New York City
+USA/NY-PV09444/2020	New York City	USA	New York City
+USA/NY-PV09456/2020	New York City	USA	New York City
+USA/NY-PV09466/2020	New York City	USA	New York City
+USA/NY-PV09483/2020	New York City	USA	New York City
+USA/NY-SURV0302/2020	New York City	USA	New York City
+USA/NY-SURV0862/2020	New York City	USA	New York City
+USA/NY-SURV0874/2020	New York City	USA	New York City
+USA/NY-WCMP10A02P/2020	New York City	USA	New York City
+USA/NY-WCMP10A05P/2020	New York City	USA	New York City
+USA/NY-WCMP10C09P/2020	New York City	USA	New York City
+USA/NY-WCMP10G06P/2020	New York City	USA	New York City
+USA/NY-WCMP10G10P/2020	New York City	USA	New York City
+USA/NY-WCMP10H01P/2020	New York City	USA	New York City
+USA/NY-WCMP11C05P/2020	New York City	USA	New York City
+USA/NY-WCMP11F04P/2020	New York City	USA	New York City
+USA/NY-WCMP12H01P/2020	New York City	USA	New York City
+USA/NY-WCMP9B09P/2020	New York City	USA	New York City
+USA/NY-WCMP9E04P/2020	New York City	USA	New York City
+USA/NY-WCMP9G04P/2020	New York City	USA	New York City
+USA/TX-DSHS-0011/2020	North America	USA	USA-South
+USA/TX-HMH0370/2020	North America	USA	USA-South
+USA/UT-02452/2020	North America	USA	USA-West
+USA/UT-0445/2020	North America	USA	USA-West
+USA/WA-S1216/2020	North America	USA	USA-West
+USA/WA-S2071/2020	North America	USA	USA-West
+USA/WA-S2109/2020	North America	USA	USA-West
+USA/WA-S2535/2020	North America	USA	USA-West
+USA/WA-S303/2020	North America	USA	USA-West
+USA/WA-S82/2020	North America	USA	USA-West
+USA/WA-UW-11829/2020	North America	USA	USA-West
+USA/WA-UW-3497/2020	North America	USA	USA-West
+USA/WA-UW199/2020	North America	USA	USA-West
+USA/WA-UW320/2020	North America	USA	USA-West
+USA/WA-UW341/2020	North America	USA	USA-West
+USA/WA-UW372/2020	North America	USA	USA-West
+USA/WI-UW-1054/2020	North America	USA	USA-Midwest
+USA/WI-UW-791/2020	North America	USA	USA-Midwest
+USA/WI-UW-907/2020	North America	USA	USA-Midwest
+USA/WY-WYPHL-20007938/2020	North America	USA	USA-West
+Ukraine/203100320/2020	Eastern Europe	Ukraine	Ukraine
+Ukraine/203100328/2020	Eastern Europe	Ukraine	Ukraine
+Ukraine/203100337/2020	Eastern Europe	Ukraine	Ukraine
+Ukraine/203100357/2020	Eastern Europe	Ukraine	Ukraine
+Ukraine/203100360/2020	Eastern Europe	Ukraine	Ukraine
+Ukraine/203100364/2020	Eastern Europe	Ukraine	Ukraine
+UnitedArabEmirates/L1189/2020	Western Asia	United Arab Emirates	United Arab Emirates
+UnitedArabEmirates/L1758/2020	Western Asia	United Arab Emirates	United Arab Emirates
+UnitedArabEmirates/L4280/2020	Western Asia	United Arab Emirates	United Arab Emirates
+UnitedArabEmirates/L5630/2020	Western Asia	United Arab Emirates	United Arab Emirates
+UnitedArabEmirates/L6599/2020	Western Asia	United Arab Emirates	United Arab Emirates
+UnitedArabEmirates/L9119/2020	Western Asia	United Arab Emirates	United Arab Emirates
+UnitedArabEmirates/L9768/2020	Western Asia	United Arab Emirates	United Arab Emirates
+UnitedArabEmirates/P1/2020	Western Asia	United Arab Emirates	United Arab Emirates
+Uruguay/Mdeo-1/2020	South America	Uruguay	Uruguay
+Uruguay/UY-6/2020	South America	Uruguay	Uruguay
+Uruguay/UY-652/2020	South America	Uruguay	Uruguay
+Uruguay/UY-8M/2020	South America	Uruguay	Uruguay
+Uruguay/UY-AT/2020	South America	Uruguay	Uruguay
+Uruguay/UY-NYUMC860/2020	South America	Uruguay	Uruguay
+Uruguay/UY-NYUMC866/2020	South America	Uruguay	Uruguay
+Uruguay/UY-NYUMC871/2020	South America	Uruguay	Uruguay
+Uruguay/UY-NYUMC875/2020	South America	Uruguay	Uruguay
+Uruguay/UY-NYUMC934/2020	South America	Uruguay	Uruguay
+Uruguay/UY-NYUMC935/2020	South America	Uruguay	Uruguay
+Venezuela/VEN-89312/2020	South America	Venezuela	Venezuela
+Venezuela/VEN-95072/2020	South America	Venezuela	Venezuela
+Wales/PHWC-15CEDD/2020	Northern Europe	United Kingdom	United Kingdom
+Wales/PHWC-15DFD9/2020	Northern Europe	United Kingdom	United Kingdom
+Wales/PHWC-163091/2020	Northern Europe	United Kingdom	United Kingdom
+Wales/PHWC-164DB7/2020	Northern Europe	United Kingdom	United Kingdom
+Wales/PHWC-1689EC/2020	Northern Europe	United Kingdom	United Kingdom
+Wales/PHWC-169392/2020	Northern Europe	United Kingdom	United Kingdom
+Wales/PHWC-265C9/2020	Northern Europe	United Kingdom	United Kingdom
+Wales/PHWC-26DB2/2020	Northern Europe	United Kingdom	United Kingdom
+Wales/PHWC-27425/2020	Northern Europe	United Kingdom	United Kingdom
+Wales/PHWC-29D73/2020	Northern Europe	United Kingdom	United Kingdom
+Wales/PHWC-3232A/2020	Northern Europe	United Kingdom	United Kingdom
+Wales/PHWC-35BC5/2020	Northern Europe	United Kingdom	United Kingdom
+Wuhan/IPBCAMS-WH-01/2019	Eastern Asia	China	China
+Wuhan/IPBCAMS-WH-04/2019	Eastern Asia	China	China
+Wuhan/IPBCAMS-WH-05/2020	Eastern Asia	China	China
+Wuhan/WH01/2019	Eastern Asia	China	China
+Wuhan/WH02/2019	Eastern Asia	China	China
+Wuhan/WH03/2020	Eastern Asia	China	China
+Iran/COVID19-IRVSH2/2020	Southern Asia	Iran	Iran
+USA/MA-DPH-00299/2020	North America	USA	USA-Northeast
+Brazil/RJ-DCVN2/2020	South America	Brazil	Brazil
+Iran/COVID19-IRVSH1/2020	Southern Asia	Iran	Iran
+USA/SEARCH-0673-SAN/2020	North America	USA	USA
+Mexico/SEARCH-1710-TIJ/2020	Central America	Mexico	Mexico
+Mexico/SEARCH-1704-TIJ/2020	Central America	Mexico	Mexico
+Mexico/SEARCH-1692-TIJ/2020	Central America	Mexico	Mexico
+Mexico/SEARCH-1479-TIJ/2020	Central America	Mexico	Mexico
+Mexico/SEARCH-1478-TIJ/2020	Central America	Mexico	Mexico
+Mexico/SEARCH-1476-TIJ/2020	Central America	Mexico	Mexico
+Mexico/SEARCH-1474-TIJ/2020	Central America	Mexico	Mexico
+Mexico/SEARCH-1473-TIJ/2020	Central America	Mexico	Mexico
+USA/SEARCH-1184-CS1/2020	North America	USA	USA
+USA/FL-CDC-7169/2020	North America	USA	USA-South
+USA/TX-CDC-TX1/2020	North America	USA	USA-South
+USA/CA-CDC-CA7/2020	North America	USA	USA-West
+USA/MA-CDC-MA1/2020	North America	USA	USA-Northeast
+USA/CA-CDC-CA1/2020	North America	USA	USA-West
+Egypt/CUNCI-HGC7I030/2020	Northern Africa	Egypt	Egypt
+Turkey/Kafkas-SARSCoV2-0016/2020	Western Asia	Turkey	Turkey
+Bangladesh/BCSIR_NILMRC_248/2020	Southern Asia	Bangladesh	Bangladesh
+Bahrain/wuhan-hu-1/2020	Western Asia	Bahrain	Bahrain
+Bahrain/Wuhan-Hu-1/2020	Western Asia	Bahrain	Bahrain
+Bangladesh/BCSIR_NILMRC_205/2020	Southern Asia	Bangladesh	Bangladesh
+France/Env-Di/2020	Western Europe	France	France
+Italy/Naples/2020	Southern Europe	Italy	Italy
+Bangladesh/BCSIR_NILMRC_021/2020	Southern Asia	Bangladesh	Bangladesh
+Iran/Iran/2020	Southern Asia	Iran	Iran
+Finland/nCoV-FIN-29-Jan-2020/2020	Northern Europe	Finland	Finland
+Bangladesh/BCSIR_NILMRC_050/2020	Southern Asia	Bangladesh	Bangladesh
+Bangladesh/DNAS_CPH_isl_471_BGD/2020	Southern Asia	Bangladesh	Bangladesh
+Greece/45_35378/2020	Southern Europe	Greece	Greece
+Iran/HGRC-1.1-IPI-8206/2020	Southern Asia	Iran	Iran
+Italy/INMI1/2020	Southern Europe	Italy	Italy
+Peru/Peru-10/2020	South America	Peru	Peru
+India/166/2020	Southern Asia	India	India

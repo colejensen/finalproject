@@ -1,0 +1,6 @@
+# BEAST v1.10.4 Prerelease #bc6cbd9
+# Generated Thu Nov 19 17:39:54 EST 2020 [seed=1605825454726]
+# -window -working -options
+# keywords: discretized_branch_rates
+state	joint	prior	likelihood	treeModel.rootHeight	age(root)	treeLength	exponential.popSize	exponential.growthRate	kappa	alpha	ucld.mean	ucld.stdev	meanRate	coefficientOfVariation	covariance	treeLikelihood	branchRates	coalescent
+0	-176091.00278575777	-34804.883931710014	-141286.11885404776	1.00357725891693	2018.996422741083	29.948342725841243	1.0	0.0	2.0	0.5	1.0	0.3333333333333333	1.0287960960154068	0.33672292403022924	2.406344737557162E-4	-141286.11885404776	-21332.719040379536	-13440.577172910582
