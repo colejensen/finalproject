@@ -51,17 +51,17 @@ I then make tree visualizations and figure out where transmission events occured
 
 Figures 1-3 show the subsampled SARS-CoV-2 trees using the Nextstrain pipeline which uses a maximum likelihood method. These show time calibarated transmission events as defined by geographic region. New York City, for the sake visualization and bayesian inferences, is it's own region. This shows there were multiple regions where transmission events from New York City many have occured. 
 <p align="center">
- <img src="https://github.com/colejensen/finalproject/blob/master/images/nextstrain_ss1.PNG">
+ <img src="https://github.com/colejensen/finalproject/blob/master/images/nextstrain_ss1.png">
  </p>
 **Figure 1.** Nextstrain phylogeny for the first subsample.
 
 <p align="center">
- <img src="https://github.com/colejensen/finalproject/blob/master/images/nextstrain_ss2.PNG">
+ <img src="https://github.com/colejensen/finalproject/blob/master/images/nextstrain_ss2.png">
  </p>
 **Figure 2.** Nextstrain phylogeny for the second subsample.
 
 <p align="center">
- <img src="https://github.com/colejensen/finalproject/blob/master/images/nextstrain_ss3.PNG">
+ <img src="https://github.com/colejensen/finalproject/blob/master/images/nextstrain_ss3.png">
  </p>
 **Figure 3.** Nextstrain phylogeny for the three subsample.
 
