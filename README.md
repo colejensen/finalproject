@@ -67,17 +67,17 @@ Figures 1-3 show the subsampled SARS-CoV-2 trees using the Nextstrain pipeline w
 
 Figures 4-6 show the IQTree treefile results. The tip labels are shown and the tree is in increasing order. These show very similiar results to the maximum likelihood tree results from Nextstrain.
 <p align="center">
- <img src="https://github.com/colejensen/finalproject/blob/master/images/ss1_iqtree.PNG">
+ <img src="https://github.com/colejensen/finalproject/blob/master/images/ss1_iqtree.png">
  </p>
 **Figure 4.** IQTree phylogeny for the first subsample.
 
 <p align="center">
- <img src="https://github.com/colejensen/finalproject/blob/master/images/ss2_iqtree.PNG">
+ <img src="https://github.com/colejensen/finalproject/blob/master/images/ss2_iqtree.png">
  </p>
 **Figure 5.** IQTree phylogeny for the second subsample.
 
 <p align="center">
- <img src="https://github.com/colejensen/finalproject/blob/master/images/ss3_iqtree.PNG">
+ <img src="https://github.com/colejensen/finalproject/blob/master/images/ss3_iqtree.png">
  </p>
 **Figure 6.** IQTree phylogeny for the third subsample.
 
