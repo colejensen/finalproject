@@ -53,6 +53,7 @@ Figures 1-3 show the subsampled SARS-CoV-2 trees using the Nextstrain pipeline w
 <p align="center">
  <img src="https://github.com/colejensen/finalproject/blob/master/images/nextstrain_ss1.png">
  </p>
+
 **Figure 1.** Nextstrain phylogeny for the first subsample.
 
 <p align="center">
