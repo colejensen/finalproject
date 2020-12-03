@@ -181,7 +181,9 @@ In commandline, still using the nextstrain envirnoment, type auspice view. This 
 
 In Github create a folder within a reporository, create a folder called `auspice`. Upload the `.JSON` file output called `cov_update.json` unless renamed. You will need to rename the file to match this format **`reponame_filename.json`**. Then go to your personalized nextstrain page on **https://nextstrain.org/community/githubusername/reporname/filename**. 
 
+## Creating the IQTree
 
+Due to the low node value probabilities, the newick tree from the Nextstrain build may not have enough strength for BEAST to be happy. To get around this I ran the `iqtree.sh` to make a newick with more concrete node values. This takes in the `masked.fasta` file and will output a stronger tree than the Nextstrain maximum likelihood tree. 
 
 ## Doing the Bayesian Analysis
 
@@ -192,15 +194,18 @@ The the `results` folder there will be a alignmed and masked fasta file called `
 3. On the `Clocks` tab set the clock type to `uncorrelated relaxed clock`. 
 4. On the `Trees` tab set the tree prior to `Coalescent: Exponential Growth` (I plan on using a different prior in the future, this was just to make sure it worked) 
 5. The rest I left as the default. 
+6. Go to the `Traits` tab. Click `Add trait` and select `Import trait(s)` and press `OK`. Then navigate to whereever you have save traits. For the purpose of my analysis I made a copy of the metadata from the Nextstrain build and took out every column other than the taxa column,which has to be renamed `traits `, and the region_exposure and country columns. Once this is imported, click each trait and then press `Create partition from trait...`. You will need to do this with each trait to be included. 
 6. Click the `Genereate BEAST File...` button and choose the location and name.
 
 To set the ML tree as a starting tree, you need to change the `.xml` file in the following way. 
 1. Replace the block that creates the random `startingTree` with:
 <newick id="startingTree">
-    insert you starting tree here in Newick format
+    insert you starting tree here in Newick format (from the IQTree output)
 </newick>
 2. The <treeModel> XML element then needs to contain a reference to this starting tree XML element:
 <newick idref="startingTree"/>
+
+Something to note here, is that you may need to do some find and replace here. The newick starting tree has to match exactly to the taxon labels in the xml file. To make sure that this works, I would suggest to makes edits and then running the xml file in BEAST locally before running it on the server using the beast.sh sbatch file. By doing it this way, you will see if there is a mispelling in the newick tree before you run it on the server and forget about it. It'll save you time in the long run. Once it gets past introducing the starting tree on the local run, you can end the BEAST run and upload the xml file to a server. Then use the xml file and beast.sh sbatch file to run BEAST.
  
 Then you are ready for BEAST!
 
@@ -215,7 +220,9 @@ Then press `Run`.
 
 You can then input that mcc file into `FigTree` to see the tree. 
 
+To see how well BEAST ran in terms of convergence and to analyze various paramters use `Tracer`. Upload the `.log` file into Tracer and you can see the various parameters and use the tools near the top center of the window to observe differe statstics and visualizations to help assess if the BEAST file ran long enough. 
+
 
 ## Using Baltic
 
-Using the `baltic_explodeJSON.py` file in PyCharm or similiar python editor input the mcc tree and run it. You will get and output another tree and a list of where New York City introduced disease to a different country. 
+Using the `baltic_explodeJSON.py` file in PyCharm or a similiar python editor input the mcc tree and run it. You will get and output another tree and a list of where New York City introduced disease to a different country. You will need to change the pathways to the your locally saved `JSON` and `MCC` files. Once you run this you will get output in your console about where introdctions occur from New York City to some other location. Copy and paste that into Excel or some text editor and you have your list of introductions. This will also give a tree that colored based on the `JSON` file. 
