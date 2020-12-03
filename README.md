@@ -25,7 +25,7 @@ The data for this project were collected from [GISAID.org](https://www.gisaid.or
 
 ### Subsampling
 
-I need to get a subsample of the available genomes (as there are far too many to use). I collected country level mortality rates (deaths per 100,000 people) for each country<sub>[source number](https://coronavirus.jhu.edu/data/mortality) </sub>. Using these rates, I find the proportion of genomes for each country and input them as a subsampling scheme that will output roughly 1,250 genomes using the `subsampling_metadata.py` python script. This subsampling scheme will not subsample any genomes after July 31st, 2020. This will create a list of genomes to include in the keep.txt file within the config folder to only use the listed genomes in the Nextstrain pipeline. This will be repeated three times to get three different subsamples.
+I need to get a subsample of the available genomes (as there are far too many to use). I collected country level mortality rates (deaths per 100,000 people) for each country<sub>[12](https://coronavirus.jhu.edu/data/mortality) </sub>. Using these rates, I find the proportion of genomes for each country and input them as a subsampling scheme that will output roughly 1,250 genomes using the `subsampling_metadata.py` python script. This subsampling scheme will not subsample any genomes after July 31st, 2020. This will create a list of genomes to include in the keep.txt file within the config folder to only use the listed genomes in the Nextstrain pipeline. This will be repeated three times to get three different subsamples.
 
 ### Nextstrain
 
@@ -33,19 +33,19 @@ In order to learn more about the transmission behavior coming from New York City
 
 ### IQTree
 
-I used the Nextstrain output files to bootstrap these three trees to find out using IQTree to get an accurate newick tree to use for the BEAST bayesian inference. By bootstrapping these Nextstrain trees will result in a reliable newick tree. From these outputs, I can see if how similiar the differently subsampled trees if one is better than the other. Additionally, I used the newwick tree outputs as inputs to Beast and use that input as a fixed emprircal tree<sub>[11](https://www.biorxiv.org/content/10.1101/2020.05.05.078758v2.full)</sub> to infer the ancestral locations with spatially-explict models. The other option is to use IQTree<sub>[12](http://www.iqtree.org/doc/Tutorial)</sub> and have it preform 1000+ bootstraps to get similiar (hopefully nearly identical) results. 
+I used the Nextstrain output files to bootstrap these three trees to find out using IQTree to get an accurate newick tree to use for the BEAST bayesian inference. By bootstrapping these Nextstrain trees will result in a reliable newick tree. From these outputs, I can see if how similiar the differently subsampled trees if one is better than the other. Additionally, I used the newwick tree outputs as inputs to Beast and use that input as a fixed emprircal tree<sub>[13](https://www.biorxiv.org/content/10.1101/2020.05.05.078758v2.full)</sub> to infer the ancestral locations with spatially-explict models. The other option is to use IQTree<sub>[12](http://www.iqtree.org/doc/Tutorial)</sub> and have it preform 1000+ bootstraps to get similiar (hopefully nearly identical) results. 
   
 ### BEAST
 
 I then used the aligned fasta file from the Nextstrain output, called `masked.fasta`, as an input for BEAUTi. In BEAUTi I will parse the dates by using the tip dates, defined just by its order and parsed as a number. Using trait files compiled by the metadata given during data collection, I will import traits that outline region of exposure, country, and country of exposure for each genome in the alignment. Each of these traits will create a partition. Sites will be set to use an HKY model with emprical base frequencies, a gamma site heterogeneity model with four gamma categories. I used an uncorrelated relaxed clock with a lognormal relaxed distribution. The tree prior used was a coalescent: exponential growth prior. The operator mix was set to a fixed tree topology. The rest of the BEAUTi xml file was set as deafult. 
 
-Before running the `<xml>` file, I opened `<xml>` file and replaced the starting tree with IQTree output treefile. How to do this can be found [here](https://beast.community/faq.html#starting-tree-and-fixing-trees)<sub> [source number](https://beast.community/faq.html#starting-tree-and-fixing-trees)</sub>.
+Before running the `<xml>` file, I opened `<xml>` file and replaced the starting tree with IQTree output treefile. How to do this can be found [here](https://beast.community/faq.html#starting-tree-and-fixing-trees)<sub> [14](https://beast.community/faq.html#starting-tree-and-fixing-trees)</sub>.
 
 After running BEAST, the output will be assessed using FigTree, Tracer, and TreeAnnotator. This resulted in a viable mcc.tree file output.
 
 ### Baltic
 
-I then make tree visualizations and figure out where transmission events occured. This is where baltic comes in. I will use the [baltic package](https://github.com/evogytis/baltic) to take the outputs of Beast and Nextstrain to create visualiztion of the trees. Using the `baltic_explodeJSON.py` script, I will input the `<json>` file from the Nextstrain output to be used as a coloring tool for the tree visualization. The BEAST mcc.tree file output will be used to create a tree and see where transmission occurred from New York City to other countires.   
+I then make tree visualizations and figure out where transmission events occured<sub>[15](https://www.nature.com/articles/nature22040)</sub>. This is where baltic comes in. I will use the [baltic package](https://github.com/evogytis/baltic) to take the outputs of Beast and Nextstrain to create visualiztion of the trees. Using the `baltic_explodeJSON.py` script, I will input the `<json>` file from the Nextstrain output to be used as a coloring tool for the tree visualization. The BEAST mcc.tree file output will be used to create a tree and see where transmission occurred from New York City to other countires.   
 
 ## Results
 
@@ -116,7 +116,7 @@ After inputing the BEAST MCC trees in the `baltic_explodeJSON.py` script and run
 
 ## Discussion
 
-SARS-CoV-2 was first detected in Wuhan China in December 2019<sub>[1](https://doi.org/10.1101/2020.02.07.937862)</sub>,<sub>[2]( https://doi.org/10.1038/s41586-020-2008-3)</sub>,<sub>[3](https://doi.org/10.1038/s41586-020-2012-7)</sub> and has spread across the globe<sub>[4](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200121-sitrep-1-2019-ncov.pdf?sfvrsn=20a99c10_4)</sub>,<sub>[5](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200323-sitrep-63-covid-19.pdf?sfvrsn=b617302d_4D)</sub>. During what has been deemed the first wasve of the pandemic, New York City became a hub of transmission<sub>[7](https://www.businessinsider.com/coronavirus-us-has-worlds-biggest-outbreak-topping-china-2020-3)</sub>. As a result, the US and countries across the world have implemented travel bans and restrictsions<sub>[source number](https://travelbans.org/)</sub>. 
+SARS-CoV-2 was first detected in Wuhan China in December 2019<sub>[1](https://doi.org/10.1101/2020.02.07.937862)</sub>,<sub>[2]( https://doi.org/10.1038/s41586-020-2008-3)</sub>,<sub>[3](https://doi.org/10.1038/s41586-020-2012-7)</sub> and has spread across the globe<sub>[4](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200121-sitrep-1-2019-ncov.pdf?sfvrsn=20a99c10_4)</sub>,<sub>[5](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200323-sitrep-63-covid-19.pdf?sfvrsn=b617302d_4D)</sub>. During what has been deemed the first wasve of the pandemic, New York City became a hub of transmission<sub>[7](https://www.businessinsider.com/coronavirus-us-has-worlds-biggest-outbreak-topping-china-2020-3)</sub>. As a result, the US and countries across the world have implemented travel bans and restrictsions<sub>[16](https://travelbans.org/)</sub>. 
 
 These results indicate that there were multiple introductions from New York City into other countires of SARS-CoV-2 throughout the study period (from December 2019 through the end of July 2020). Each of the three subsamples show different amounts of transmission, which is consistent with having different genomes in the phylogenetic analyses. Despite the differences, the aveage number of introductions from New York City to other countires is **blank**. This also indicates that despite the various travel bans and restrictions, introduction events from New York City (and therefore the United States) still occurred.
 
@@ -160,8 +160,12 @@ First Travel-related Case of 2019 Novel Coronavirus Detected in United States.
 
 11. Dellicour, S., Durkin, K., Hong, S., Vanmechelen, B., Marti-Carreras, J., Gill, M., . . . Maes, P. (2020). A phylodynamic workflow to rapidly gain insights into the dispersal history and dynamics of SARS-CoV-2 lineages. Retrieved from http://orbi.ulg.ac.be/handle/2268/247427
 
-12. Beginner’s tutorial. Retrieved from http://www.iqtree.org/doc/Tutorial
+12. Mortality analysis. (2020). Retrieved from https://coronavirus.jhu.edu/data/mortality
 
-13. Dudas, G., Carvalho, L. M., Bedford, T., Tatem, A. J., Baele, G., Faria, N. R., . . . Rambaut, A. (2017). Virus genomes reveal factors that spread and sustained the ebola epidemic. Nature (London), 544(7650), 309-315. doi:10.1038/nature22040
+13. Beginner’s tutorial. Retrieved from http://www.iqtree.org/doc/Tutorial
 
-14. update
+14. BEAST doc. (2020). Retrieved from https://beast.community/faq.html#starting-tree-and-fixing-trees
+
+15. Dudas, G., Carvalho, L. M., Bedford, T., Tatem, A. J., Baele, G., Faria, N. R., . . . Rambaut, A. (2017). Virus genomes reveal factors that spread and sustained the ebola epidemic. Nature (London), 544(7650), 309-315. doi:10.1038/nature22040
+
+16. Travel ban, new rules and unexpected flying restrictions. (2020). Retrieved from https://travelbans.org/
