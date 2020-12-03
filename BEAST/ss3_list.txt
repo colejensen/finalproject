@@ -1,0 +1,97 @@
+New York City	Panama
+New York City	Uruguay
+New York City	Mexico
+New York City	Peru
+New York City	Australia
+New York City	Saudi Arabia
+New York City	Spain
+New York City	Israel
+New York City	Indonesia
+New York City	Netherlands
+New York City	Greece
+New York City	Switzerland
+New York City	South Africa
+New York City	Belgium
+New York City	United Kingdom
+New York City	Luxembourg
+New York City	United Kingdom
+New York City	Portugal
+New York City	Australia
+New York City	Israel
+New York City	Canada
+New York City	Colombia
+New York City	Greece
+New York City	Israel
+New York City	Canada
+New York City	Colombia
+New York City	Costa Rica
+New York City	France
+New York City	Belize
+New York City	Denmark
+New York City	South Korea
+New York City	Canada
+New York City	Belgium
+New York City	Norway
+New York City	France
+New York City	France
+New York City	Germany
+New York City	Netherlands
+New York City	Israel
+New York City	Australia
+New York City	Austria
+New York City	Algeria
+New York City	Australia
+New York City	Belgium
+New York City	Senegal
+New York City	Belgium
+New York City	Canada
+New York City	South Korea
+New York City	Argentina
+New York City	Kazakhstan
+New York City	Costa Rica
+New York City	Uruguay
+New York City	Argentina
+New York City	Denmark
+New York City	Netherlands
+New York City	Belize
+New York City	France
+New York City	France
+New York City	Israel
+New York City	France
+New York City	Sweden
+New York City	Colombia
+New York City	Netherlands
+New York City	France
+New York City	Denmark
+New York City	Argentina
+New York City	Costa Rica
+New York City	Morocco
+New York City	Norway
+New York City	Israel
+New York City	Canada
+New York City	Mexico
+New York City	France
+New York City	Bosnia and Herzegovina
+New York City	Belgium
+New York City	Colombia
+New York City	France
+New York City	Croatia
+New York City	India
+New York City	France
+New York City	Denmark
+New York City	Mexico
+New York City	Denmark
+New York City	Denmark
+New York City	France
+New York City	Norway
+New York City	Ecuador
+New York City	Chile
+New York City	Denmark
+New York City	Colombia
+New York City	Netherlands
+New York City	Colombia
+New York City	Ecuador
+New York City	South Africa
+New York City	South Africa
+New York City	Poland
+New York City	Sweden 
