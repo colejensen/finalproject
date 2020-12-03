@@ -168,6 +168,9 @@ snakemake delete
 
 The code in `scripts` will be updated as needed. Re-download this repository (`git clone...`) whenever a new analysis has to be done, to ensure the latest scripts are being used.
 
+## Server Run
+
+This process can be done using a server as well. The server will have to have the Nextstrain augur installed. Move over the `config`, `data`, `pre-analyses`, and `scripts` folders along with the Snakefile. Run the nextstrain.sh file. 
 
 ## Viewing the Maximum Likelihood Nextstrain Tree
 
