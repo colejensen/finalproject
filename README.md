@@ -17,6 +17,8 @@ I will use data generated from the [Grubaugh Lab](http://grubaughlab.com/) and d
 
 ## Methods
 
+For details and steps on how to run the various pipelines and BEAST, see the readme.md file within the folder called `Minimum Viable Analysis`. 
+
 ### Data Collection
 
 The data for this project were collected from [GISAID.org](https://www.gisaid.org/) and [NCBI database](https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/virus?SeqType_s=Nucleotide&VirusLineage_ss=Wuhan%20seafood%20market%20pneumonia%20virus,%20taxid:2697049). I collected over two million genomes and their assoicated metadadta between the two sources. 
@@ -148,18 +150,18 @@ Coronavirus disease 2019 (COVID-19) Situation Report-63.
 First Travel-related Case of 2019 Novel Coronavirus Detected in United States.
 (January 21, 2020)https://www.cdc.gov/media/releases/2020/p0121-novel-coronavirus-travel-case.html Date: 2020
 
-7. https://www.businessinsider.com/coronavirus-us-has-worlds-biggest-outbreak-topping-china-2020-3
+7. Jeremy Berke, & Morgan McFall-Johnsen. (2020, Mar 26,). The US now has the world's biggest coronavirus outbreak — its case total just surpassed china's. Business Insider Retrieved from https://search.proquest.com/docview/2392499878
 
-8. https://www.nytimes.com/interactive/2020/05/16/nyregion/nyc-coronavirus-moving-leaving.html
+8. Azi Paybarah, Matthew Bloch, & Scott Reinhard. (2020, May 16,). Where new yorkers moved to escape coronavirus. New York Times (Online) Retrieved from https://search.proquest.com/docview/2404205093
 
-9. https://www.medrxiv.org/content/10.1101/2020.04.08.20056929v2
+9. Gonzalez-Reiche, A. S., Hernandez, M. M., Sullivan, M. J., Ciferri, B., Alshammary, H., Obla, A., . . . van Bakel, H. (2020). Introductions and early spread of SARS-CoV-2 in the new york city area. Science (American Association for the Advancement of Science), 369(6501), 297-301. doi:10.1126/science.abc1917
 
-10. https://www.cell.com/cell/pdf/S0092-8674(20)30484-0.pdf
+10. Fauver, J. R., Petrone, M. E., Hodcroft, E. B., Shioda, K., Ehrlich, H. Y., Watts, A. G., . . . Grubaugh, N. D. (2020). Coast-to-coast spread of SARS-CoV-2 during the early epidemic in the united states. Cell (Cambridge), 181(5), 990-996.e5. doi:10.1016/j.cell.2020.04.021
 
-11. https://www.biorxiv.org/content/10.1101/2020.05.05.078758v2.full
+11. Dellicour, S., Durkin, K., Hong, S., Vanmechelen, B., Marti-Carreras, J., Gill, M., . . . Maes, P. (2020). A phylodynamic workflow to rapidly gain insights into the dispersal history and dynamics of SARS-CoV-2 lineages. Retrieved from http://orbi.ulg.ac.be/handle/2268/247427
 
-12. http://www.iqtree.org/doc/Tutorial
+12. Beginner’s tutorial. Retrieved from http://www.iqtree.org/doc/Tutorial
 
-13. https://www.nature.com/articles/nature22040
+13. Dudas, G., Carvalho, L. M., Bedford, T., Tatem, A. J., Baele, G., Faria, N. R., . . . Rambaut, A. (2017). Virus genomes reveal factors that spread and sustained the ebola epidemic. Nature (London), 544(7650), 309-315. doi:10.1038/nature22040
 
 14. update
