@@ -16,7 +16,7 @@
 #SBATCH --cpus-per-task=16
 
 # mail alert at start, end and abortion of execution
-#SBATCH --mail-type=BEGIN,END --mail-user=cole.jensen@yale.edu
+#SBATCH
 
 module load miniconda
 source activate nextstrain
