@@ -4,7 +4,7 @@
 #SBATCH --nodes=1
 
 # set max wallclock time
-#SBATCH --time=200:00:00
+#SBATCH --time=2000:00:00
 
 # memory requirement
 #SBATCH --mem=100g
@@ -16,7 +16,7 @@
 #SBATCH --cpus-per-task=20
 
 # mail alert at start, end and abortion of execution
-#SBATCH --mail-type=BEGIN,END --mail-user=cole.jensen@yale.edu
+#SBATCH
 
 module load Beast/1.10.4
 module load beagle-lib/3.0.2-fosscuda-2018b
