@@ -11,7 +11,7 @@ During the early wave of the SARS-CoV-2 pandemic, thousands of people left New Y
  <img src="https://github.com/colejensen/finalproject/blob/master/images/Capture.PNG">
  </p>
 
-Genomes associated with the NYC outbreak have been shown to have influenced the transmission of SARCoV-2 throughout the US<sub>[9](https://www.medrxiv.org/content/10.1101/2020.04.08.20056929v2)</sub>. This is similar to how Washington state<sub>[10](https://www.cell.com/cell/pdf/S0092-8674(20)30484-0.pdf)</sub> was an early hub for transmission in the United States. Still, it appears that the NYC outbreak is associated with more transmission both in quantity and in locations. 
+Genomes associated with the NYC outbreak have been shown to have influenced the transmission of SARCoV-2 throughout the US<sub>[9](https://www.medrxiv.org/content/10.1101/2020.04.08.20056929v2)</sub>. This is similar to how Washington state<sub>[10](https://www.cell.com/cell/pdf/S0092-8674(20)30484-0.pdf)</sub> was an early hub for transmission<sub>[11](http://orbi.ulg.ac.be/handle/2268/247427)</sub> in the United States. Still, it appears that the NYC outbreak is associated with more transmission both in quantity and in locations. 
 The goal of my project is to assess if there were transmission events from NYC to outside of the United States during the early wave of the pandemic. If so, how many and where? 
 
 I will use data available at [GISAID.org](https://www.gisaid.org/) and in the [NCBI database](https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/virus?SeqType_s=Nucleotide&VirusLineage_ss=Wuhan%20seafood%20market%20pneumonia%20virus,%20taxid:2697049).  I will also use a package called `Baltic` that will loop through a phylogenetic tree and show where transmission events occurred. This loop can change modified to show where transmission events that originated from NYC spread. 
@@ -36,7 +36,7 @@ To learn more about the transmission behavior coming from New York City, I creat
 
 ### IQTree
 
-I didn't intend to use IQTree at all. But I ran into a problem using the Nextstrain Newick tree output. When input into BEAST, I got errors and complaints that my starting tree (the Nextstrain Newick tree) wasn't strong enough. I used IQTree<sub>[12](http://www.iqtree.org/doc/Tutorial)</sub> to get an accurate Newick tree to use for the BEAST bayesian inference to address this problem. By bootstrapping these Nextstrain alignment files, I received a reliable Newick tree. I used the Newick tree outputs as inputs to Beast as a fixed empirical tree<sub>[13](https://www.biorxiv.org/content/10.1101/2020.05.05.078758v2.full)</sub> to infer the ancestral locations with spatially-explicit models.
+I didn't intend to use IQTree at all. But I ran into a problem using the Nextstrain Newick tree output. When input into BEAST, I got errors and complaints that my starting tree (the Nextstrain Newick tree) wasn't strong enough. I used IQTree<sub>[13](http://www.iqtree.org/doc/Tutorial)</sub> to get an accurate Newick tree to use for the BEAST bayesian inference to address this problem. By bootstrapping these Nextstrain alignment files, I received a reliable Newick tree. I used the Newick tree outputs as inputs to Beast as a fixed empirical tree<sub>[13](https://www.biorxiv.org/content/10.1101/2020.05.05.078758v2.full)</sub> to infer the ancestral locations with spatially-explicit models.
   
 ### BEAST
 
