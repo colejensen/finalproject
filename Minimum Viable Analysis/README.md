@@ -178,11 +178,17 @@ There are two ways to do this, a permant way to see it or a temporary way to see
 
 **Temporary**:
 
-In commandline, still using the nextstrain envirnoment, type auspice view. This will result in a link **`http://localhost:4000`**. Copy into a web brower that will commandline still open and you will be able to see the tree. 
+In commandline, still using the nextstrain envirnoment, type:
+```
+auspice view
+```
+This will result in a link **`http://localhost:4000`**. Copy into a web brower that will commandline still open and you will be able to see the tree. It is important to note that you cannot do this step while utilizing a server. This has to be run on your local machine using either the command prompt (for Mac computers) or Ubuntu (for Windows). 
 
 **Permanent**:
 
 In Github create a folder within a reporository, create a folder called `auspice`. Upload the `.JSON` file output called `cov_update.json` unless renamed. You will need to rename the file to match this format **`reponame_filename.json`**. Then go to your personalized nextstrain page on **https://nextstrain.org/community/githubusername/reporname/filename**. 
+
+For example, the builds done for this project can be found at `**https://nextstrain.org/community/colejensen/finalproject**`.
 
 ## Creating the IQTree
 
