@@ -181,7 +181,11 @@ The code in `scripts` will be updated as needed. Re-download this repository (`g
 
 ## Server Run
 
-This process can be done using a server as well. The server will have to have the Nextstrain augur installed. Move over the `config`, `data`, `pre-analyses`, and `scripts` folders along with the Snakefile. Run the nextstrain.sh file. 
+This process can be done using a server as well. The server will have to have the Nextstrain augur installed. Move over the `config`, `data`, `pre-analyses`, and `scripts` folders along with the `Snakefile`. Copy over the `sbatch` file called  `nextstrain.sh`. Open the terminal from the folder that all of these files or folders are stored. T run the nextstrain.sh file type:
+```
+sbatch nextstrain.sh
+```
+Depending on the amount of genomes, this can take upwards of a few hours. 
 
 ## Viewing the Maximum Likelihood Nextstrain Tree
 
