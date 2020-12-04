@@ -188,7 +188,7 @@ This will result in a link **`http://localhost:4000`**. Copy into a web brower t
 
 In Github create a folder within a reporository, create a folder called `auspice`. Upload the `.JSON` file output called `cov_update.json` unless renamed. You will need to rename the file to match this format **`reponame_filename.json`**. Then go to your personalized nextstrain page on **https://nextstrain.org/community/githubusername/reporname/filename**. 
 
-For example, the builds done for this project can be found at `**https://nextstrain.org/community/colejensen/finalproject**`.
+For example, the builds done for this project can be found at **https://nextstrain.org/community/colejensen/finalproject**.
 
 ## Creating the IQTree
 
