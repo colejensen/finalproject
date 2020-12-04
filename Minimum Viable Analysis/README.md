@@ -212,7 +212,17 @@ Something to note here, is that you may need to do some find and replace here. T
  
 Then you are ready for BEAST!
 
-Open `BEAST` and using the `Choose File...` option select the `.xml` file. Then press `Run`. 
+Open `BEAST` and using the `Choose File...` option select the `.xml` file. Then `Run`. If you want to run this on a server upload the `xml` file to your server and make sure that `BEAST` is installed. Additionally, upload the `beast.sh` file to the same place on the server. In command line call the `sbatch` file and point it to the `xml` file. Ther terminal code will look something like this:
+
+```
+sbatch beast.sh filename.xml
+```
+
+In the event that the analysis takes more than the alloted time in the `beast.sh` file (currently set to 200 hours) run the following code based on how far the the analysis has gotten (the largest `state_somenumber` output).
+
+```
+sbatch beast.sh filename.xml -load_state state_number
+```
 
 ## Analysis the BEAST run
 
