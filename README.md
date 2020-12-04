@@ -134,7 +134,7 @@ The most significant difficulty in implementing these analyses was the implement
 
 Additionally, I learned that the time needed for some of my sample BEAST runs wasn't even close to how much time was required to do my full Bayesian analysis. It took days to run. I was worried that it would just run forever and I wouldn't get any results. I did, thankfully,  end up getting results during Thanksgiving break. 
 
-If I were to do this again, knowing what I know now, I would consider using IQTree instead of BEAST. Early on, I had the problem of wanting to include more genomes in the analysis (initially, I wanted to include about 2,500 samples per subsample) and having the BEAUTi output file prematurely stop writing. I have found various studies or examples that included more genomes than my desired 2,500 that used BEAST. I am not sure why the BEAUTi output cut off when I tried to include 2,500 genomes in light of these examples. To get around this, I reduced my desired subsample amount to be about 1,000.  After the subsampling process, each subsample ended up with about 1,300. When the alignment of these genomes was used to create an xml file, I had no problems. 
+If I were to do this again, knowing what I know now, I would consider using IQTree instead of BEAST. Early on, I had the problem of wanting to include more genomes in the analysis (initially, I wanted to include about 2,500 samples per subsample) and having the BEAUTi output file prematurely stop writing. I have found various studies or examples that included more genomes than my desired 2,500 that used BEAST<sub>[19,]</sub><sub>[20](https://www.nature.com/articles/s41467-019-13443-4)</sub>. I am not sure why the BEAUTi output cut off when I tried to include 2,500 genomes in light of these examples. To get around this, I reduced my desired subsample amount to be about 1,000.  After the subsampling process, each subsample ended up with about 1,300. When the alignment of these genomes was used to create an xml file, I had no problems. 
 
 Additionally, I would want to include some epidemiological analysis to prove the validity of this analysis. Potentially, I would use travel data as prior to help guide the Bayesian analysis. I could also use travel data and incidence data to support and graph where expected transmission events occurred. 
 
@@ -183,3 +183,7 @@ First Travel-related Case of 2019 Novel Coronavirus Detected in United States.
 17. Dudas, G., Carvalho, L. M., Bedford, T., Tatem, A. J., Baele, G., Faria, N. R., . . . Rambaut, A. (2017). Virus genomes reveal factors that spread and sustained the ebola epidemic. Nature (London), 544(7650), 309-315. doi:10.1038/nature22040
 
 18. Travel ban, new rules and unexpected flying restrictions. (2020). Retrieved from https://travelbans.org/
+
+19. Brito, A. (2020). In Jensen C. (Ed.), Anderson brito's previous project
+
+20. Zhu, Q., Mai, U., Pfeiffer, W., Janssen, S., Asnicar, F., Sanders, J. G., . . . Knight, R. (2019). Phylogenomics of 10,575 genomes reveals evolutionary proximity between domains bacteria and archaea. Nature Communications, 10(1), 5477-14. doi:10.1038/s41467-019-13443-4
