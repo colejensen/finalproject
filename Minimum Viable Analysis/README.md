@@ -69,9 +69,9 @@ Files in the `pre-analyses` directory need to be downloaded from distinct source
 |              File              |                                              Source                                             |
 |:------------------------------:|:-----------------------------------------------------------------------------------------------:|
 | gisaid_hcov-19.fasta |         Downloaded from GISAID (all complete genomes submitted from 2019-Dec-01)        |
-|        new_genomes.fasta¹       | Newly sequenced genomes, with headers formatted as ">Yale-XXX", downloaded from the Lab's Dropbox |
+|        new_genomes.fasta¹<sup>4</sup>       | Newly sequenced genomes, with headers formatted as ">Yale-XXX", downloaded from the Lab's Dropbox |
 | metadata_nextstrain.tsv² | File 'nextmeta.tsv' available on GISAID |
-|    COVID-19_sequencing.xlsx³    |                     Metadata spreadsheet downloaded from an internal Google Sheet                    |
+|    COVID-19_sequencing.xlsx³<sup>5</sup>    |                     Metadata spreadsheet downloaded from an internal Google Sheet                    |
 
 
 
@@ -89,6 +89,9 @@ Notes:<br />
 - Host
 - Source *→ lab source of the viral samples*
 - Update *→ number of the genome release, if new genomes are released in a regular basis*
+
+<sup>4</sup> If you don't have any lab specific genomes you need to keep this file, but it may be empty<br />
+<sup>5</sup> If you don't have any lab specific genomes, keep the file as is. The script will filter out any of the metadata in the given file, but will still run. <br />
 
 #### Adapting the Python scripts
 A few lines in the scripts `add_newgenomes.py` ans `filter_metadata.py` need to be changed to match your lab's sample naming and origin.
