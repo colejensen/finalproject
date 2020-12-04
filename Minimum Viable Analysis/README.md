@@ -117,13 +117,21 @@ Lines to be changed in `filter_metadata.py`:
 
 ## Adding NCBI data
 
-Move the `download_sequences.py` script from scripts to the pre-analysis folder. Using the `nextstrain` environment type **python download_sequences.py --fasta ncbi_hcov-19.fasta --skip redundant_entries.txt --metadata metadata_nextstrain.tsv**. This will download all the NCBI SARS-CoV-2 genomes that do not match the metadata given from GISAID. This may take a while. After running this once, to update run the same code sequence in command line, but this time it will skip all the entries in `redundant_entries.txt` which will speed up the process quite a bit.  
+Move the `download_sequences.py` script from scripts to the pre-analysis folder. Using the `nextstrain` environment type 
+```
+python download_sequences.py --fasta ncbi_hcov-19.fasta --skip redundant_entries.txt --metadata metadata_nextstrain.tsv
+``` 
+This will download all the NCBI SARS-CoV-2 genomes that do not match the metadata given from GISAID. This may take a while. After running this once, to update run the same code sequence in command line, but this time it will skip all the entries in `redundant_entries.txt` which will speed up the process quite a bit.  
 
 ## Making NYC genomes identify as being from the country 'New York City' to do country level analysis and find the subsample. 
 
-To do this you need to make a copy of the metadata file created called `metadata_nextstrain.tsv`. It doesn't matter what it's called, but it needs to be an exact copy of it. Then, while inside the pre-analysis folder, employ the `presubsample.py` script. I do this in PyCharm becuase it doesn't need the nextstarin augur. Run the script and you will have changed the metadata copy to now have New York City genomes listed as being from the country 'New York City'. 
+To do this you need to make a copy of the metadata file created called `metadata_nextstrain.tsv`. It doesn't matter what it's called, but it needs to be an exact copy of it. Then, while inside the pre-analysis folder, employ the `presubsample.py` script. I do this in PyCharm becuase it doesn't need the nextstarin augur. Run the script and you will have changed the metadata copy to now have New York City genomes listed as being from the country 'New York City'. You will need to change the file pathway to match the local pathway on your machine. 
 
-Now you need to subsample the data. In command line type the following **python subsample_metadata.py --metadata metadata_nextstrain_copy.tsv --keep keep.txt --remove.txt --scheme subsampling_scheme.tsv -- output selected_strains.tsv --report report.tsv**. This will subsample the metadata and give you a list of genomes based on the subsampling scheme. This list can be found in `selected_strains.tsv`. Copy the contents `selected_strains.tsv` and navigate to the `keep.txt` file in the config folder. Replace the contents of that `keep.txt` file with the contents in `selected_strains.tsv`. 
+Now you need to subsample the data. In command line type the following:
+```
+python subsample_metadata.py --metadata metadata_nextstrain_copy.tsv --keep keep.txt --remove.txt --scheme subsampling_scheme.tsv -- output selected_strains.tsv --report report.tsv
+```
+This will subsample the metadata and give you a list of genomes based on the subsampling scheme. This scheme can be found in `selected_strains.tsv`. Copy the contents `selected_strains.tsv` and navigate to the `keep.txt` file in the config folder. Replace the contents of that `keep.txt` file with the contents in `selected_strains.tsv`. If you want to change anthing about the genomes in the subample regarind the amount, where, or when  you can change the subsampling scheme to reflect that. 
 
 
 ## Running the pipeline
