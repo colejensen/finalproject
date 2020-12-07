@@ -25,8 +25,9 @@ ggplot(data=data, aes(x='Where Introductions Occured', y='Number of Introdiuctio
 
 data <- data.frame("Total" = c(79,79,97), "EU" = c(38,38,48), "Asia" = c(2,2,4), "NCA" = c(12,12,11), "Oceania" = c(4,4,4), 
                    "SA" = c(14,14,18), "Africa"=c(2,2,5), "ME"=c(7,7,7))
-test <- data.frame("Values"= c(79,79,97,38,38,48,2,2,4,12,12,11,4,4,4,14,14,18,2,2,5,7,7,7), "Location" = 
-                     c("Total","Total","Total","Europe","Europe","Europe","Asia","Asia","Asia","N.C.A.", "N.C.A.","N.C.A.",
+test <- data.frame("Values"= c(38,38,48,2,2,4,12,12,11,4,4,4,14,14,18,2,2,5,7,7,7), "Location" = 
+                     c("Europe","Europe","Europe","Asia","Asia","Asia","N.C.A.", "N.C.A.","N.C.A.",
                        "Oceania","Oceania","Oceania","S.A.","S.A.","S.A.","Africa","Africa","Africa","Middle East","Middle East","Middle East"))
 
 boxplot(Values~Location, data=test, main="Introductions from New York", xlab="Location", ylab="Number of Introductions", col="steelblue", border="black")
+boxplot(data$Total, main="Total Number of Introductions from New York", ylab="Number of Introductions", col="steelblue", border="black")
