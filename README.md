@@ -168,7 +168,7 @@ Additionally, I learned that the time needed for some of my sample BEAST runs wa
 
 If I were to do this again, knowing what I know now, I would consider using IQTree instead of BEAST. Early on, I had the problem of wanting to include more genomes in the analysis (initially, I wanted to include about 2,500 samples per subsample) and having the BEAUTi output file prematurely stop writing. I have found various studies or examples that included more genomes than my desired 2,500 that used BEAST<sub>19,</sub><sub>[20](https://www.nature.com/articles/s41467-019-13443-4)</sub>. I am not sure why the BEAUTi output cut off when I tried to include 2,500 genomes in light of these examples. To get around this, I reduced my desired subsample amount to be about 1,000.  After the subsampling process, each subsample ended up with about 1,300. When the alignment of these genomes was used to create an xml file, I had no problems. 
 
-Additionally, I would want to include some epidemiological analysis to prove the validity of this analysis. Potentially, I would use travel data as prior to help guide the Bayesian analysis. I could also use travel data and incidence data to support and graph where expected transmission events occurred. 
+Additionally, I would want to include some epidemiological analysis to prove the validity of this analysis. Potentially, I would use travel data as prior to help guide the Bayesian analysis. Ideally, I would be able to use travel data as some sort of prior to help guide where transmissione events actually occurred. I could also use travel data and incidence data to support and graph where expected transmission events occurred. 
 
 ## References
 
