@@ -138,8 +138,6 @@ After inputting the BEAST phylogenetic trees into `baltic_explodeJSON.py` and ru
  <img src="https://github.com/colejensen/finalproject/blob/master/images/new_regions.png">
  </p>
 
-The three different subsamples showed different results. Two of the three had the same amount of introduction events in each region, while one subsample differed. Overall, each region had roughly the same amount of transmission events both in overall count and by region. In the Middle East and in Oceania, all three subsets reported the same amount of transmission events (seven and four respectively). Of these events, the subsamples reported the same amount of transmission events to the listed countries in the region. Europe had the greatest number of transmission events from New York City occur. The aveage number of introdcutions across the subsamples was 41.3 with a high of 48 introductions. South America averaged 12 transmission events and North and Central America followed closely behind with 11.67 transmission events. Asia and Africa had the least amount of transmission events with 2.67 and 3 transmission events respectively. On average, there were 85 transmission events from New York City (outside of transmission events within the United States) across the globe. 
-
 **Figure 13.** Boxplots that show the average number of introductions from New York City. Each location is labeled as the continent (or region) the transmission event occurred in. To properly fit in the display, some acronyms were made. N.C.A. is North and Central America, and S.A. is South America. Total is in reference to the total number of introductions from New York to somewhere outside the United States from each subsample.
 
 <p align="center">
@@ -147,6 +145,8 @@ The three different subsamples showed different results. Two of the three had th
  </p>
  
 **Figure 14.** Boxplot that shows the overall average number of introductions from New York City. 
+
+The three different subsamples showed different results. Two of the three had the same amount of introduction events in each region, while one subsample differed. Overall, each region had roughly the same amount of transmission events both in overall count and by region. In the Middle East and in Oceania, all three subsets reported the same amount of transmission events (seven and four respectively). Of these events, the subsamples reported the same amount of transmission events to the listed countries in the region. Europe had the greatest number of transmission events from New York City occur. The aveage number of introdcutions across the subsamples was 41.3 with a high of 48 introductions. South America averaged 12 transmission events and North and Central America followed closely behind with 11.67 transmission events. Asia and Africa had the least amount of transmission events with 2.67 and 3 transmission events respectively. On average, there were 85 transmission events from New York City (outside of transmission events within the United States) across the globe. 
 
 ## Discussion
 
