@@ -135,7 +135,7 @@ After inputting the BEAST phylogenetic trees into `baltic_explodeJSON.py` and ru
 **Figure 12.** The Baltic Phylogenetic Tree for the first subsample.
 
 <p align="center">
- <img src="https://github.com/colejensen/finalproject/blob/master/images/all_in_one_boxplot.png">
+ <img src="https://github.com/colejensen/finalproject/blob/master/images/new_regions.png">
  </p>
  
 **Figure 13.** Boxplots that show the average number of introductions from New York City. Each location is labeled as the continent (or region) the transmission event occurred in. To properly fit in the display, some acronyms were made. N.C.A. is North and Central America, and S.A. is South America. Total is in reference to the total number of introductions from New York to somewhere outside the United States from each subsample.
